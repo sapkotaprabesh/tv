@@ -2,41 +2,34 @@
 
 ################################### Hindi #############################################
 
-#EXTINF:-1 tvg-id="1" group-title="Hindi",9X Music
-https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/9xm/master.m3u8
-https://d35j504z0x2vu2.cloudfront.net/v1/manifest/0bc8e8376bd8417a1b6761138aa41c26c7309312/9xm/23886666-8fc5-470f-aab1-bd637ed607b1/3.m3u8
-https://d14c63magvk61v.cloudfront.net/strm/channels/9xm/master.m3u8
+#EXTINF:-1 tvg-id="1" group-title="Music",9X Music
+https://da86m1sqpm3o0.cloudfront.net/28072023/smil:9xmusic4.smil/playlist.m3u8
+https://epiconvh.akamaized.net/9XM/master.m3u8
+https://9xjio.wiseplayout.com/9XM/master.m3u8
 
-#EXTINF:-1 tvg-id="1" group-title="Hindi",9X Jalwa
-https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/9x-jalwa/master.m3u8
-https://d14c63magvk61v.cloudfront.net/strm/channels/9xjalwa/master.m3u8
+#EXTINF:-1 tvg-id="1" group-title="Music",9X Jalwa
+https://epiconvh.akamaized.net/9xJalwa/master.m3u8
+http://longstream-06.ajaah.com/PlayBoxTV/9XJalwa/playlist.m3u8
 https://d1g8wgjurz8via.cloudfront.net/bpk-tv/9xjalwa2/default/main.mpd
 
-#EXTINF:-1 tvg-id="1" group-title="Hindi",9X Jhakas
-https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/9x-jalwa/master.m3u8
+#EXTINF:-1 tvg-id="1" group-title="Music",9X Jhakas
 
-#EXTINF:-1 tvg-id="1" group-title="Hindi",YRF
-https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/yrf-music/master.m3u8
+#EXTINF:-1 tvg-id="1" group-title="Music",YRF
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01412-xiaomiasia-yrfmusic-xiaomi/playlist.m3u8
 
-#EXTINF:-1 tvg-id="1" group-title="Hindi",MTV HD
-#EXTVLCOPT:http-referrer=playyonogames.in
-https://playyonogames.in/live.php?id=1145&format=.m3u8
+#EXTINF:-1 tvg-id="1" group-title="Music",Zoom
+https://dai.google.com/ssai/event/JCAm25qkRXiKcK1AJMlvKQ/master.m3u8
+https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Zoom2/default/main.mpd
+
+#EXTINF:-1 tvg-id="1" group-title="Music",Zing
+https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Zing/default/main.mpd
+
+#EXTINF:-1 tvg-id="1" group-title="Music",Showbox
+
+################################### MTV #############################################
 
 #EXTINF:-1 tvg-id="1" group-title="Hindi",MTV Beats
 https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/yrf-music/master.m3u8
-
-#EXTINF:-1 tvg-id="1" group-title="Hindi",Zoom
-https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Zoom2/default/main.mpd
-https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/zoom-tv/master.m3u8
-
-#EXTINF:-1 tvg-id="1" group-title="Hindi",Zing
-https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Zing/default/main.mpd
-https://ntv.onrender.com/ott_abr/zingabr
-
-#EXTINF:-1 tvg-id="1" group-title="Hindi",Showbox
-https://epiconvh.akamaized.net/live/showbox/master.m3u8
-
-################################### MTV #############################################
 
 #EXTINF:-1 tvg-id="1" group-title="MTV",Music
 http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/6245d15062cd1f00070a2338/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=a550d1d8-92db-11ef-bff5-3f922ed3e824&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=81d02f87-23ec-43be-8cfa-1f8cb8cfe7ce&userId=&serverSideAds=true
@@ -123,7 +116,7 @@ https://jmp2.uk/sam-CABC52000180Z.m3u8
 
 #EXTINF:0 group-title="XITE", Hits
 https://xite-hitsuk-lg.amagi.tv/playlist.m3u8
-https://jmp2.uk/sam-CABD1200038NZ.m3u8
+https://xite-hitsuk-lg.amagi.tv/playlist.m3u8
 
 #EXTINF:0 group-title="XITE", Rock x Metal
 https://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/623a1b5188ecdc0007c9ef5a/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=509f4220-6d49-11f0-b6c5-0ddf473bc021&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=7a760f8b-33cf-4f6b-9863-80bebfe88371&userId=&serverSideAds=true
@@ -288,22 +281,22 @@ https://jmp2.uk/sam-CA29000183M.m3u8
 
 ################################### English #############################################
 
-#EXTINF:-1 group-title="English",1mus
+#EXTINF:-1 group-title="Music",1mus
 http://hz1.teleport.cc/HLS/HD.m3u8
 
-#EXTINF:-1 group-title="English",Megabox
+#EXTINF:-1 group-title="Music",Megabox
 https://hdbox.chunklistv.com/live?stream=megabox
 
-#EXTINF:0 group-title="English", Euro Indie Music
+#EXTINF:0 group-title="Music", Euro Indie Music
 http://178.33.224.197:1935/euroindiemusic/euroindiemusic/playlist.m3u8
 
-#EXTINF:0 group-title="English", CMT Equal Play
+#EXTINF:0 group-title="Music", CMT Equal Play
 https://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5f68f53eb1e5800007390bf8/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=509ef400-6d49-11f0-b6c5-0ddf473bc021&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=5c0dbcfa-4fa1-4170-ac16-0a87ce237070&userId=&serverSideAds=true
 
-#EXTINF:0 group-title="English", Classica
+#EXTINF:0 group-title="Music", Classica
 https://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5f779951372da90007fd45e8/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=509f9040-6d49-11f0-b6c5-0ddf473bc021&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=d132805a-78f2-4eea-96c5-1956f66a288f&userId=&serverSideAds=true
 
-#EXTINF:-1 group-title="English",30A TV
+#EXTINF:-1 group-title="Music",30A TV
 http://30a-tv.com/music.m3u8
 
 
