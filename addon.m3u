@@ -58,7 +58,7 @@ https://i.mjh.nz/SamsungTVPlus/CABB2500020SS.m3u8
 #EXTINF:-1 tvg-id="NASATV.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b4/NASA_TV.svg/512px-NASA_TV.svg.png" group-title="Infotainment",NASA TV
 https://uplynkcontent.sinclairstoryline.com/channel/ddd76fdc1c0a456ba537e4f48e827d3e.m3u8
 
-#EXTINF:-1 tvg-id="sky.news" tvg-logo="https://static.wikia.nocookie.net/youtube/images/a/a6/Sky_News.jpg" group-title="International",Sky News
+#EXTINF:-1 tvg-id="sky.news" tvg-logo="https://static.wikia.nocookie.net/youtube/images/a/a6/Sky_News.jpg" group-title="News",Sky News
 https://ntv.onrender.com/yt/SkyNews
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3b/Bloomberg_Television_2016.png" group-title="News",Bloomberg TV Asia
 https://bloomberg.com/media-manifest/streams/asia.m3u8

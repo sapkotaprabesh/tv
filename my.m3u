@@ -131,12 +131,12 @@ https://dai.google.com/linear/hls/event/wG75n5U8RrOKiFzaWObXbA/master.m3u8
 https://ntv.onrender.com/Six_HD
 
 
-#EXTINF:-1 tvg-id="france.24" tvg-logo="https://static.france24.com/meta_og_twcards/jsonld_publisher.png" group-title="International",FRANCE 24 English
+#EXTINF:-1 tvg-id="france.24" tvg-logo="https://static.france24.com/meta_og_twcards/jsonld_publisher.png" group-title="News",FRANCE 24 English
 https://ntv.onrender.com/FRANCE24English
 https://ntv.onrender.com/ott_abr/france24abr
-#EXTINF:-1 tvg-id="1244" tvg-logo="https://a.jsrdn.com/hls/22886/euronews/logo_20231218_175557_70.png" group-title="International",Euronews
+#EXTINF:-1 tvg-id="1244" tvg-logo="https://a.jsrdn.com/hls/22886/euronews/logo_20231218_175557_70.png" group-title="News",Euronews
 https://ntv.onrender.com/distro.tv/1244
-#EXTINF:-1 tvg-id="255" tvg-logo="https://cdn.ndtv.com/common/images/ogndtv.png" group-title="International",NDTV
+#EXTINF:-1 tvg-id="255" tvg-logo="https://cdn.ndtv.com/common/images/ogndtv.png" group-title="News",NDTV
 https://ndtvindiaelemarchana.akamaized.net/hls/live/2003679/ndtvindia/master.m3u8
 #EXTINF:-1 tvg-id="ari.rang" tvg-logo="https://i.imgur.com/bDbObLR.png" group-title="International",Arirang
 http://amdlive.ctnd.com.edgesuite.net/arirang_1ch/smil:arirang_1ch.smil/playlist.m3u8

@@ -58,7 +58,7 @@ https://iptv.prax.to/nettv/udpsports/udpTen2-SD.stream
 https://iptv.prax.to/nettv/udpsports/udpTen3-SD.stream
 #EXTINF:-1 tvg-id="nettv-111" tvg-logo="https://ott-resources.geniustv.geniussystems.com.np/public/images/v1/channels/2022-11-06-150026-63677b2e91d15-png" group-title="Sports",Sony Sports Ten 5 HD
 https://iptv.prax.to/nettv/udpsports/udpTen5-SD.stream
-#EXTINF:-1 tvg-id="nettv-141" tvg-logo="https://ott-resources.geniustv.geniussystems.com.np/public/images/v1/channels/141-png" group-title="Entertainment",Lotus Macau HD
+#EXTINF:-1 tvg-id="nettv-141" tvg-logo="https://ott-resources.geniustv.geniussystems.com.np/public/images/v1/channels/141-png" group-title="International",Lotus Macau HD
 https://iptv.prax.to/nettv/ott_abr/lotusmacauabr.stream
 #EXTINF:-1 tvg-id="nettv-204" tvg-logo="https://ott-resources.geniustv.geniussystems.com.np/public/images/v1/channels/204-png" group-title="Infotainment",DW-TV HD
 https://iptv.prax.to/nettv/ott_abr/dwabr.stream
@@ -76,7 +76,7 @@ https://iptv.prax.to/nettv/ott_abr/peacetvabr.stream
 https://iptv.prax.to/nettv/ottlivestream/netNepalMandal1500.stream
 #EXTINF:-1 tvg-id="nettv-229" tvg-logo="https://ott-resources.geniustv.geniussystems.com.np/public/images/v1/channels/229-png" group-title="Entertainment",Fashion TV Asia HD
 https://iptv.prax.to/nettv/ott_abr/fashiontvabr.stream
-#EXTINF:-1 tvg-id="nettv-230" tvg-logo="https://ott-resources.geniustv.geniussystems.com.np/public/images/v1/channels/230-png" group-title="International",France 24 English HD
+#EXTINF:-1 tvg-id="nettv-230" tvg-logo="https://ott-resources.geniustv.geniussystems.com.np/public/images/v1/channels/230-png" group-title="News",France 24 English HD
 https://iptv.prax.to/nettv/ott_abr/france24abr.stream
 #EXTINF:-1 tvg-id="nettv-238" tvg-logo="https://ott-resources.geniustv.geniussystems.com.np/public/images/v1/channels/238-png" group-title="Spiritual",Bodhi TV HD
 https://iptv.prax.to/nettv/iptvlive_abr/bodhitvabr.stream
@@ -84,7 +84,7 @@ https://iptv.prax.to/nettv/iptvlive_abr/bodhitvabr.stream
 https://iptv.prax.to/nettv/ottlivestream/Megafallback.stream
 #EXTINF:-1 tvg-id="nettv-240" tvg-logo="https://ott-resources.geniustv.geniussystems.com.np/public/images/v1/channels/240-png" group-title="Spiritual",Madani Channel
 https://iptv.prax.to/nettv/ott_abr/madaniabr.stream
-#EXTINF:-1 tvg-id="nettv-241" tvg-logo="https://ott-resources.geniustv.geniussystems.com.np/public/images/v1/channels/241-png" group-title="Infotainment",TRT World HD
+#EXTINF:-1 tvg-id="nettv-241" tvg-logo="https://ott-resources.geniustv.geniussystems.com.np/public/images/v1/channels/241-png" group-title="News",TRT World HD
 https://iptv.prax.to/nettv/ott_abr/trtworldabr.stream
 #EXTINF:-1 tvg-id="nettv-245" tvg-logo="https://ott-resources.geniustv.geniussystems.com.np/public/images/v1/channels/245-png" group-title="Nepali",YES TV
 https://iptv.prax.to/nettv/ottlivestream/yestv_high.stream
@@ -122,7 +122,7 @@ https://iptv.prax.to/nettv/ottlivestream/netlifeoknepal.stream
 https://iptv.prax.to/nettv/ottlivestream/znepaltv.stream
 #EXTINF:-1 tvg-id="nettv-332" tvg-logo="https://ott-resources.geniustv.geniussystems.com.np/public/images/v1/channels/332-png" group-title="Spiritual",Divya Darshan HD
 https://iptv.prax.to/nettv/ottlivestream/netDibyaDarsan1500.stream
-#EXTINF:-1 tvg-id="nettv-360" tvg-logo="https://ott-resources.geniustv.geniussystems.com.np/public/images/v1/channels/360-png" group-title="International",CGTN
+#EXTINF:-1 tvg-id="nettv-360" tvg-logo="https://ott-resources.geniustv.geniussystems.com.np/public/images/v1/channels/360-png" group-title="News",CGTN
 https://iptv.prax.to/nettv/ott_abr/cgtnhdabr.stream
 #EXTINF:-1 tvg-id="nettv-397" tvg-logo="https://ott-resources.geniustv.geniussystems.com.np/public/images/v1/channels/2022-06-12-085022-62a557f20885e-png" group-title="Nepali",Rapti Darpan HD
 https://iptv.prax.to/nettv/ottlivestream/netRAPTITV.stream
