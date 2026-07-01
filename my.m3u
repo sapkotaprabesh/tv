@@ -1,28 +1,3 @@
-#EXTM3U x-tvg-url="https://kodi.botallen.com/tv/epg.xml"
-#EXTINF:-1 tvg-id="ntv.np" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/18/NTV_Nepal.png" group-title="Nepali",NTV
-https://ntv.onrender.com/ntv/ntv
-#EXTINF:-1 tvg-id="KantipurTV.np" tvg-logo="https://www.lyngsat.com/logo/tv/kk/kantipur-tv-np.png" group-title="Nepali",Kantipur TV
-https://ktvhdsg.ekantipur.com:8443/high_quality_85840165/hd/playlist.m3u8
-#EXTINF:-1 tvg-id="KantipurMax.np" tvg-logo="https://i.ytimg.com/vi/64nyNNEYsPY/maxresdefault.jpg" group-title="Nepali",Kantipur Max
-https://ktvhdsg.ekantipur.com:8443/kantipurmax_sports_2025/hd/playlist.m3u8
-https://ktvhdsg.ekantipur.com:8443/backup_23765291/hd/playlist.m3u8
-# EXTINF:-1 tvg-id="news24.np" tvg-logo="https://d229kpbsb5jevy.cloudfront.net/tv/150/150/bnw/news24-nepali-black.png" group-title="Nepali",News24 Nepal 
-https://ntv.onrender.com/yt/news24tvchannel
-#EXTINF:-1 tvg-id="ntvnews.np" tvg-logo="https://resources.geniustv.geniussystems.com.np//livetv/channels/43/image" group-title="Nepali",NTV News
-https://ntv.onrender.com/ntv/ntv-news
-#EXTINF:-1 tvg-id="TVtoday.np" tvg-logo="https://is2-ssl.mzstatic.com/image/thumb/Purple124/v4/ae/c6/46/aec646c5-28ce-84e6-ba54-c3d80a9c0478/source/60x60bb.jpg" group-title="Nepali",TV Today
-https://nplb.truestreamz.com/broadcaster/tvtoday977reg.stream/playlist.m3u8
-#EXTINF:-1 tvg-id="ntvplus.np" tvg-logo="https://resources.geniustv.geniussystems.com.np//livetv/channels/44/image" group-title="Nepali",NTV PLUS
-https://ntv.onrender.com/ntv/ntv-plus
-#EXTINF:-1 tvg-id="indigenous.np" tvg-logo="https://www.indigenousmediafoundation.org/uploads/project/indigenous-television.png" group-title="Nepali",Indigenous TV
-http://np.truestreamz.com/broadcaster/INDIGENOUSmob.stream/playlist.m3u8
-#EXTINF:-1 tvg-id="ntvplus.np" tvg-logo="https://ntv.newitventure.com/images/channel_logos/4.png" group-title="Nepali",NTV Kohalpur
-https://ntv.onrender.com/ntv/ntv-kohalpur
-#EXTINF:-1 tvg-id="ntvplus.np" tvg-logo="https://ntv.newitventure.com/images/channel_logos/600.png" group-title="Nepali",NTV Itaharu
-https://ntv.onrender.com/ntv/ntv-itahari
-#EXTINF:-1 tvg-id="904.np" tvg-logo="https://resources.geniustv.geniussystems.com.np/livetv/channels/904/image" group-title="Nepali",Public TV
-http://103.180.240.141:8080/hls/main1/playlist.m3u8
-
 #EXTINF:-1 tvg-id="291" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/57/SET_India_logo.svg/1200px-SET_India_logo.svg.png" group-title="Entertainment",Sony
 https://dai.google.com/linear/hls/event/dBdwOiGaQvy0TA1zOsjV6w/master.m3u8
 #EXTINF:-1 tvg-id="154" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e5/Sony_SAB.svg/1200px-Sony_SAB.svg.png" group-title="Entertainment",Sony Sab
