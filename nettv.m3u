@@ -5,6 +5,9 @@ https://iptv.prax.to/nettv/ott_abr/ntvnepalhdabr.stream
 https://iptv.prax.to/nettv/ott_abr/euronewsabr.stream
 #EXTINF:-1 tvg-id="nettv-41" tvg-logo="https://ott-resources.geniustv.geniussystems.com.np/public/images/v1/channels/41-png" group-title="Nepali",Kantipur HD
 https://iptv.prax.to/nettv/ott_abr/kantipurhdabr.stream
+#EXTINF:-1 tvg-id="KantipurMax.np" tvg-logo="https://i.ytimg.com/vi/64nyNNEYsPY/default.jpg" group-title="Nepali",Kantipur Max
+https://ktvhdsg.ekantipur.com:8443/ktvmax2025_premium_xbkobxkwjh1/paid/playlist.m3u8
+https://ktvhdsg.ekantipur.com:8443/ktvmax_nepal_d827kky3dftm/free/playlist.m3u8
 #EXTINF:-1 tvg-id="nettv-42" tvg-logo="https://ott-resources.geniustv.geniussystems.com.np/public/images/v1/channels/2022-02-03-123214-61fb7a72bd299-png" group-title="Nepali",AP1 HD
 https://iptv.prax.to/nettv/ott_abr/ap1hdabr.stream
 #EXTINF:-1 tvg-id="nettv-43" tvg-logo="https://ott-resources.geniustv.geniussystems.com.np/public/images/v1/channels/43-png" group-title="Nepali",NTV News HD
