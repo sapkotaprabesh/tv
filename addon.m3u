@@ -1,16 +1,15 @@
 #EXTM3U
 
 #EXTINF:-1 tvg-id="1327" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c6/Comedy_Central_2011_Logo.svg/1200px-Comedy_Central_2011_Logo.svg.png" group-title="Entertainment",Comedy Central
-https://ntv.onrender.com/thetvapp.to/ComedyCentralEast
+https://iptv.prax.to/ufreetv/COMEDY_CENTRAL
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/HBO_logo.svg/1200px-HBO_logo.svg.png" group-title="Movies",HBO
-https://ntv.onrender.com/thetvapp.to/HBOEast
+http://41.205.77.102/HBO/index.m3u8
+https://iptv.prax.to/ufreetv/HBO
 #EXTINF:-1 tvg-logo="https://cdn.tvpassport.com/image/station/240x135/bbcamerica.png" group-title="Movies",BBC America
-https://ntv.onrender.com/to.thetvapp.net/BBC America
-https://ntv.onrender.com/thetvapp.to/BBCAmericaEast
+https://iptv.prax.to/ufreetv/BBC_AMERICA
 #EXTINF:-1 tvg-logo="https://logonoid.com/images/cinemax-logo.png" group-title="Movies",Cinemax
-https://ntv.onrender.com/thetvapp.to/CinemaxEast
-https://ntv.onrender.com/to.thetvapp.net/Cinemax West
+https://iptv.prax.to/ufreetv/CINEMAX
 https://video1.getstreamhosting.com:1936/8432/8432/playlist.m3u8
 #EXTINF:-1 tvg-id="5e20b730f2f8d5003d739db7-60240f58676235002df19f4b" tvg-logo="https://provider-static.plex.tv/epg/images/ott_channels/logos/topcine_logo_dark_v3.png" group-title="Movies",Top Cine
 #EXTINF:-1 tvg-id="star.movieshd" tvg-logo="https://www.adgully.com/img/800/202003/star-movies-select-hd.png.jpg" group-title="Movies",Star Movies Select HD
@@ -26,8 +25,6 @@ https://code.vthanhtivi.pw/getlink/eazie/241430/playlist.m3u8
 http://vthanh.utako.moe/AT-X/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://logovectordl.com/wp-content/uploads/2020/08/adult-swim-logo-vector.png" group-title="Kids",Adult Swim
-https://ntv.onrender.com/to.thetvapp.net/Cartoon Network
-https://ntv.onrender.com/thetvapp.to/CartoonNetworkEast
 #EXTINF:-1 tvg-logo="https://i.cdn.turner.com/adultswim/big/img/2014/08/22/offtheair_301.jpg" group-title="Kids",Adult Swim Off The Air
 #https://adultswim-vodlive.cdn.turner.com/live/off-the-air/stream.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/8/83/Williams_Street.jpg" group-title="Kids",Adult Swim Williams Stream
@@ -50,7 +47,7 @@ http://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_3360.m3u8
 #EXTINF:-1 tvg-logo="https://d3k81ch9hvuctc.cloudfront.net/company/HvKcVr/images/82aae7fa-ddf6-4297-a5ed-1486c8a23b89.png" group-title="Entertainment",People are Awesome
 https://jukin-peopleareawesome-2-in.samsung.wurl.tv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/06/Food_Network_logo.svg/1200px-Food_Network_logo.svg.png" group-title="Entertainment",Food Network
-https://ntv.onrender.com/thetvapp.to/FoodNetworkEast
+https://iptv.prax.to/ufreetv/FOOD_NETWORK
 https://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5fb5844bf5514d0007945bda/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=web&servertSideAds=false&&deviceMake=github.com/inspirationlinks&deviceDNT=1
 
 #EXTINF:-1 tvg-id="5e20b730f2f8d5003d739db7-62ab5aabbb869dd0df6a3487" tvg-logo="https://provider-static.plex.tv/epg/cms/production/5fd3720e-6bb2-44ae-9345-65999a1afbf8/-_B_Channel_logo_1500x1000_RED.png" group-title="Infotainment",TED
@@ -62,6 +59,5 @@ https://uplynkcontent.sinclairstoryline.com/channel/ddd76fdc1c0a456ba537e4f48e82
 https://ntv.onrender.com/yt/SkyNews
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3b/Bloomberg_Television_2016.png" group-title="News",Bloomberg TV Asia
 https://bloomberg.com/media-manifest/streams/asia.m3u8
-https://ntv.onrender.com/to.thetvapp.net/Bloomberg
-https://ntv.onrender.com/thetvapp.to/BloombergTV
 https://www.bloomberg.com/media-manifest/streams/us-event.m3u8
+https://iptv.prax.to/ufreetv/BLOOMBERG
