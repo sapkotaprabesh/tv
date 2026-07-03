@@ -13,6 +13,7 @@ https://iptv.prax.to/CINEMAX
 https://video1.getstreamhosting.com:1936/8432/8432/playlist.m3u8
 #EXTINF:-1 tvg-id="5e20b730f2f8d5003d739db7-60240f58676235002df19f4b" tvg-logo="https://provider-static.plex.tv/epg/images/ott_channels/logos/topcine_logo_dark_v3.png" group-title="Movies",Top Cine
 #EXTINF:-1 tvg-id="star.movieshd" tvg-logo="https://www.adgully.com/img/800/202003/star-movies-select-hd.png.jpg" group-title="Movies",Star Movies Select HD
+http://iptvtree.net:8080/vtprotonium/CuUWPf5b7jywB68SxZ5/267542
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/65/Animaxlogo-20160701.png" group-title="Kids", Animax Asia
 http://45.58.2.147/live_playlist.m3u8?cid=BS236&r=FHD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
