@@ -16,14 +16,11 @@ https://video1.getstreamhosting.com:1936/8432/8432/playlist.m3u8
 http://iptvtree.net:8080/vtprotonium/CuUWPf5b7jywB68SxZ5/267542
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/65/Animaxlogo-20160701.png" group-title="Kids", Animax Asia
-http://45.58.2.147/live_playlist.m3u8?cid=BS236&r=FHD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
-http://vthanh.utako.moe/Animax/index.m3u8
-https://smart.pendy.dpdns.org/Smart.php?id=Animax
-https://jmp2.uk/sam-KRBC40000010R.m3u8
+http://58.82.168.138:5002/bs15.m3u8?token=guoziyun&gid=bs15&channel=zhongying
 #EXTINF:-1 tvg-id="AniplusAsia.sg" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/b/b8/Aniplus_Asia_Logo.png/512px-Aniplus_Asia_Logo.png" group-title="Kids",Aniplus
 https://code.vthanhtivi.pw/getlink/eazie/241430/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c6/AT-X_logo.svg/800px-AT-X_logo.svg.png" group-title="Kids", AT-X
-http://vthanh.utako.moe/AT-X/index.m3u8
+http://haru.charandom.blog/stream/jp/at-x/stream-output.m3u8?mode=hls
 
 #EXTINF:-1 tvg-logo="https://logovectordl.com/wp-content/uploads/2020/08/adult-swim-logo-vector.png" group-title="Kids",Adult Swim
 https://iptv.prax.to/ADULT_SWIM
