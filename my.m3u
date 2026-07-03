@@ -12,14 +12,12 @@ https://prod-ent-live-gm.jiocinema.com/bpk-tv/Colors_HD_voot_MOB/Fallback/index.
 #EXTINF:-1 tvg-id="StarPlusHD.in" tvg-logo="https://i.imgur.com/WbvMMOR.png" group-title="Entertainment",Star Plus HD
 https://ntv.onrender.com/Star_Plus_HD
 #EXTINF:-1 tvg-id="248" tvg-logo="https://www.maryville.edu/wp-content/uploads/2017/08/mtv-logo.png" group-title="Entertainment",MTV
-https://iptv.prax.to/ufreetv/MTV
-https://iptv.prax.to/ufreetv-84/MTV
+https://iptv.prax.to/MTV
 #EXTINF:-1 tvg-id="479"  tvg-logo="https://tvpmlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/70/02/05/INBC1500004JR_20220427T054807.png" group-title="Entertainment",TLC
-https://iptv.prax.to/ufreetv-84/TLC
+https://iptv.prax.to/TLC
 https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Tlc2/default/manifest.mpd
 #EXTINF:-1 tvg-id="INBA51000038B" tvg-logo="https://tvpmlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/70/02/40/INBA51000038B_20220427T054758.png" group-title="Entertainment",Fashion TV
-https://aa1ce778ea0544e4aa7429bc8a16eb1c.mediatailor.us-east-1.amazonaws.com/v1/master/04fd913bb278d8775298c26fdca9d9841f37601f/Samsung-in_FashionTV/playlist.m3u8?ads.wurl_channel=902&ads.wurl_name=FashionTV&ads.coppa=0&ads.psid=%7BPSID%7D&ads.targetopt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D
-https://fashiontv-fashiontv-5-nl.samsung.wurl.tv/playlist.m3u8
+https://iptv.prax.to/FASHION_TV
 #EXTINF:-1 tvg-id="0-9-zeecafehd" tvg-logo="https://akamaividz.zee5.com/image/upload/resources/0-9-zeecafehd/list/1170x658withlogo325698699.png" group-title="Entertainment",Zee Café HD
 https://ntv.onrender.com/0-9-zeecafehd
 https://ntv.onrender.com/ott_abr/zeecafehdabr
@@ -64,24 +62,23 @@ https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Discoverykids2/default/manifest.mpd
 #EXTINF:-1 tvg-id="872" tvg-logo="https://yt3.ggpht.com/ytc/AMLnZu9xAMLXtV4KxKaR1cg-4YoYdJGBlMgVXPv8JsxsVA=s900-c-k-c0x00ffffff-no-rj" group-title="Kids",Sony Yay
 https://dai.google.com/linear/hls/event/GPY7RqOrSkmKJ8z1GbVNhg/master.m3u8
 #EXTINF:-1 tvg-id="547" tvg-logo="https://nick-intl.mtvnimages.com/uri/mgid:file:gsp:entertainment-assets:/webplex/site/nick/intl/nickelodeon-600x600.png" group-title="Kids",Nickelodeon
-https://iptv.prax.to/ufreetv/NICKELODEON
+https://iptv.prax.to/NICKELODEON
 http://41.205.93.154/NICK-HD/index.m3u8
 #EXTINF:-1 tvg-id="cartoon.network" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/Cartoon_Network_2010_logo.svg/1200px-Cartoon_Network_2010_logo.svg.png" group-title="Kids",Cartoon Network
 https://vodzong.mjunoon.tv:8087/streamtest/cartoon-network-87/playlist.m3u8
-https://iptv.prax.to/ufreetv/CARTOON_NETWORK
-https://iptv.prax.to/ufreetv-84/CARTOON_NETWORK
+https://iptv.prax.to/CARTOON_NETWORK
 #EXTINF:-1 tvg-id="815" tvg-logo="https://upload.wikimedia.org/wikipedia/en/2/2b/Nickelodeon_Sonic_logo.png" group-title="Kids",Sonic
 https://ntv.onrender.com/sonic_Hindi
 #EXTINF:-1 tvg-id="disnep.xd" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/Disney_XD_-_2015.svg/1200px-Disney_XD_-_2015.svg.png" group-title="Kids",Disney XD
-https://iptv.prax.to/ufreetv/DISNEY_XD
-https://iptv.prax.to/ufreetv-84/DISNEY_XD
+https://iptv.prax.to/DISNEY_XD
 #EXTINF:-1 tvg-id="disnep.channel" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d2/2019_Disney_Channel_logo.svg/960px-2019_Disney_Channel_logo.svg.png" group-title="Kids",Disney
+https://iptv.prax.to/DISNEY
 #EXTINF:-1 tvg-id="po.go" tvg-logo="https://customercarecontacts.com/wp-content/uploads/2021/07/pogo-tv-logo.jpg" group-title="Kids",POGO
 #EXTVLCOPT:http-referrer="https://mhdtv.co.in/jio/stream.php?id=559&e=.m3u8"
 https://mhdtv.co.in/jio/stream.php?id=559&e=.m3u8
 https://ntv.onrender.com/Pogo_Hindi
 #EXTINF:-1 tvg-id="nick.toons" tvg-logo="https://static.wikia.nocookie.net/nickelodeon/images/9/95/NicktoonsTV.jpg" group-title="Kids",Nicktoons
-https://iptv.prax.to/ufreetv-84/NICKTOONS
+https://iptv.prax.to/NICKTOONS
 #EXTINF:-1 tvg-id="5e20b730f2f8d5003d739db7-5f170d60b898490041b49359" tvg-logo="https://provider-static.plex.tv/epg/images/ott_channels/logos/tg-toon-goggles-us.png" group-title="Kids",Toon Goggles
 https://i.mjh.nz/SamsungTVPlus/GBBC4000017F.m3u8
 
@@ -95,41 +92,36 @@ https://amg00793-bbcstudios-amg00793c3-lg-us-2528.playouts.now.amagi.tv/playlist
 https://amg00793-amg00793c6-xumo-us-2669.playouts.now.amagi.tv/BBCStudios-BBCEarthA-hls/playlist.m3u8
 https://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/656535fc2c46f30008870fae/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=web&deviceMake=Revolucioniptv&deviceDNT=1
 #EXTINF:-1 tvg-id="566" tvg-logo="https://tvpmlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/70/00/98/INBC1500001SN_20220525T002411.png" group-title="Infotainment",Animal Planet HD
-https://iptv.prax.to/ufreetv/ANIMAL_PLANET
-https://iptv.prax.to/ufreetv-84/ANIMAL_PLANET
+https://iptv.prax.to/ANIMAL_PLANET
 #EXTINF:-1 tvg-id="568"  tvg-logo="https://tvpmlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/70/02/46/INBC1500011RN_20220427T054744.png" group-title="Infotainment",Discovery Science
 https://discoveryplus.roshantv.workers.dev/streams/96.m3u8
 https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Discoveryscience2/default/manifest.mpd
 #EXTINF:-1 tvg-id="242"  tvg-logo="https://tvpmlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/70/01/31/INBB280000836_20220525T002355.png" group-title="Infotainment",Discovery HD
-https://iptv.prax.to/ufreetv/DISCOVERY
-https://iptv.prax.to/ufreetv-84/DISCOVERY
+https://iptv.prax.to/DISCOVERY
 https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Discoverychannel2/default/manifest.mpd
 #EXTINF:-1 tvg-id="nat.geo" tvg-logo="https://www.ifia.com/wp-content/uploads/2020/05/seo.ngsversion.1565614141405-768x403.jpg" group-title="Infotainment",National Geographic
-https://iptv.prax.to/ufreetv/NAT_GEO
-https://iptv.prax.to/ufreetv-84/NAT_GEO
+https://iptv.prax.to/NAT_GEO
 https://admdn2.cdn.mangomolo.com/nagtv/smil:nagtv.stream.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="nat.geowild" tvg-logo="https://www.ifia.com/wp-content/uploads/2020/05/seo.ngsversion.1565614141405-768x403.jpg" group-title="Infotainment",Nat Geo Wild
-https://iptv.prax.to/ufreetv/NAT_GEO_WILD
-https://iptv.prax.to/ufreetv-84/NAT_GEO_WILD
+https://iptv.prax.to/NAT_GEO_WILD
 #EXTINF:-1 tvg-id="1471" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/6/67/History_tv18_hd.png" group-title="Infotainment",History TV18
-https://iptv.prax.to/ufreetv-84/HISTORY
+https://iptv.prax.to/HISTORY
 
 #EXTINF:-1 tvg-id="fox.sports" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/FOX_Sports_logo.svg/1280px-FOX_Sports_logo.svg.png" group-title="Sports",Fox Sports
+https://iptv.prax.to/FOX_SPORTS
 #EXTINF:-1 tvg-id="bein.sports" tvg-logo="https://assets.beinsports.com/beIN_SPORTS.png" group-title="Sports",Bein Sports
-#EXTVLCOPT:http-referrer="https://weblivehdplay.ru/"
-https://salamus2022.webhd.ru/ddy2/premium98/playlist.m3u8
-https://176.126.83.201/stream.php?id=bein1prem&e=.m3u8
+https://iptv.prax.to/BEIN_SPORTS
 #EXTINF:-1 tvg-id="euro.sports" tvg-logo="https://dnl.eurosport.com/sd/img/structured-data-logo.jpg" group-title="Sports",Euro Sports
 #EXTVLCOPT:http-referrer="https://weblivehdplay.ru/"
 https://salamus2022.webhd.ru/ddh2/premium41/playlist.m3u8
 https://176.126.83.201/stream.php?id=eurosp1&e=.m3u8
 https://discoveryplus.roshantv.workers.dev/streams/106.m3u8
+#EXTINF:-1 tvg-id="espn.sports" tvg-logo="https://a1.espncdn.com/combiner/i?img=%2Fi%2Fespn%2Fespn_logos%2Fespn_red.png" group-title="Sports",ESPN
+https://iptv.prax.to/ESPN
 #EXTINF:-1 tvg-id="startsports.one" tvg-logo="https://upload.wikimedia.org/wikipedia/en/4/49/Star_Sports_India_logo1.png" group-title="Sports",Star Sports
 https://176.126.83.201/stream.php?id=starhindi&e=.m3u8
 #EXTINF:-1 tvg-id="892" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/5/59/Sony_Sports_Network.png/220px-Sony_Sports_Network.png" group-title="Sports",Sony Sports
-https://dai.google.com/linear/hls/event/wG75n5U8RrOKiFzaWObXbA/master.m3u8
-https://ntv.onrender.com/Six_HD
-
+https://iptv.prax.to/SONY_SPORTS
 
 #EXTINF:-1 tvg-id="france.24" tvg-logo="https://static.france24.com/meta_og_twcards/jsonld_publisher.png" group-title="News",FRANCE 24 English
 https://ntv.onrender.com/FRANCE24English
