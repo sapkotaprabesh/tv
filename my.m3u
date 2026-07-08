@@ -88,6 +88,27 @@ https://i.mjh.nz/SamsungTVPlus/GBBC4000017F.m3u8
 
 
 
+#EXTINF:-1 tvg-id="1" group-title="Music",9X Music
+https://da86m1sqpm3o0.cloudfront.net/28072023/smil:9xmusic4.smil/playlist.m3u8
+https://epiconvh.akamaized.net/9XM/master.m3u8
+https://9xjio.wiseplayout.com/9XM/master.m3u8
+https://wiselp.wiseplayout.com/9XM/master.m3u8
+#EXTINF:-1 tvg-id="1" group-title="Music",9X Jalwa
+https://epiconvh.akamaized.net/9xJalwa/master.m3u8
+http://longstream-06.ajaah.com/PlayBoxTV/9XJalwa/playlist.m3u8
+https://d1g8wgjurz8via.cloudfront.net/bpk-tv/9xjalwa2/default/main.mpd
+#EXTINF:-1 tvg-id="1" group-title="Music",9X Jhakas
+#EXTINF:-1 tvg-id="1" group-title="Music",YRF
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01412-xiaomiasia-yrfmusic-xiaomi/playlist.m3u8
+#EXTINF:-1 tvg-id="1" group-title="Music",Zoom
+https://dai.google.com/ssai/event/JCAm25qkRXiKcK1AJMlvKQ/master.m3u8
+https://mumbai-edge.smartplaytv.in/Zoom/index.m3u8
+https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Zoom2/default/main.mpd
+#EXTINF:-1 tvg-id="1" group-title="Music",Zing
+https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Zing/default/main.mpd
+#EXTINF:-1 tvg-id="1" group-title="Music",Showbox
+#EXTINF:-1 group-title="Music",1mus
+http://hz1.teleport.cc/HLS/HD.m3u8
 
 
 
@@ -97,6 +118,7 @@ https://amg00793-amg00793c6-xumo-us-2669.playouts.now.amagi.tv/BBCStudios-BBCEar
 https://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/656535fc2c46f30008870fae/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=web&deviceMake=Revolucioniptv&deviceDNT=1
 #EXTINF:-1 tvg-id="566" tvg-logo="https://tvpmlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/70/00/98/INBC1500001SN_20220525T002411.png" group-title="Infotainment",Animal Planet HD
 https://iptv.prax.to/ANIMAL_PLANET
+https://tiger-hub.vercel.app@vodzong.mjunoon.tv:8087/streamtest/Animal-Planet-158-3/playlist.m3u8
 #EXTINF:-1 tvg-id="568"  tvg-logo="https://tvpmlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/70/02/46/INBC1500011RN_20220427T054744.png" group-title="Infotainment",Discovery Science
 https://discoveryplus.roshantv.workers.dev/streams/96.m3u8
 https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Discoveryscience2/default/manifest.mpd
