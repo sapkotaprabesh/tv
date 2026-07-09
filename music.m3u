@@ -1,5 +1,40 @@
 #EXTM3U
 
+################################### Hindi  #############################################
+
+#EXTINF:-1 tvg-id="1" group-title="Music",9X Music
+https://da86m1sqpm3o0.cloudfront.net/28072023/smil:9xmusic4.smil/playlist.m3u8
+https://epiconvh.akamaized.net/9XM/master.m3u8
+https://9xjio.wiseplayout.com/9XM/master.m3u8
+https://wiselp.wiseplayout.com/9XM/master.m3u8
+
+#EXTINF:-1 tvg-id="1" group-title="Music",9X Jalwa
+https://epiconvh.akamaized.net/9xJalwa/master.m3u8
+http://longstream-06.ajaah.com/PlayBoxTV/9XJalwa/playlist.m3u8
+https://d1g8wgjurz8via.cloudfront.net/bpk-tv/9xjalwa2/default/main.mpd
+
+#EXTINF:-1 tvg-id="1" group-title="Music",9X Jhakas
+
+#EXTINF:-1 tvg-id="1" group-title="Music",YRF
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01412-xiaomiasia-yrfmusic-xiaomi/playlist.m3u8
+
+#EXTINF:-1 tvg-id="1" group-title="Music",Zoom
+https://dai.google.com/ssai/event/JCAm25qkRXiKcK1AJMlvKQ/master.m3u8
+https://mumbai-edge.smartplaytv.in/Zoom/index.m3u8
+https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Zoom2/default/main.mpd
+
+#EXTINF:-1 tvg-id="1" group-title="Music",Zing
+https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Zing/default/main.mpd
+
+#EXTINF:-1 tvg-id="1" group-title="Music",Showbox
+
+################################### English #############################################
+
+
+#EXTINF:-1 group-title="Music",1mus
+http://hz1.teleport.cc/HLS/HD.m3u8
+
+
 ################################### MTV #############################################
 
 #EXTINF:-1 tvg-id="1" group-title="MTV",Live
