@@ -39,28 +39,20 @@ http://hz1.teleport.cc/HLS/HD.m3u8
 
 #EXTINF:-1 tvg-id="1" group-title="MTV",Live
 https://iptv.prax.to/MTV_LIVE
+
 #EXTINF:-1 tvg-id="1" group-title="MTV",Beats
-https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/yrf-music/master.m3u8
 
 #EXTINF:-1 tvg-id="1" group-title="MTV",Music
-http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/6245d15062cd1f00070a2338/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=a550d1d8-92db-11ef-bff5-3f922ed3e824&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=81d02f87-23ec-43be-8cfa-1f8cb8cfe7ce&userId=&serverSideAds=true
-http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/6245d15062cd1f00070a2338/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=1b1ec342-4b81-11ef-a8ac-e146e4e7be02&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=a56dace8-66e4-4b9a-a55f-d5348160dae2
-http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/6245d15062cd1f00070a2338/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=84ae0440-4b92-11ef-aece-533610f1ea34&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=64060fde-9aa0-457f-ba59-1d8c28109d33
 
 #EXTINF:-1 tvg-id="1" group-title="MTV",Hits
-http://45.88.92.3/tr3_MTVHits_SD/index.m3u8?token=test
 
-#EXTINF:0 group-title="MTV", Yo!
-https://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5d14fc31252d35decbc4080b/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=509ef403-6d49-11f0-b6c5-0ddf473bc021&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=62d706a8-3f99-419d-aeac-97851c03a9f5&userId=&serverSideAds=true
+#EXTINF:0 tvg-logo="https://i.imgur.com/hzNXDdY.png" group-title="MTV", Yo!
+https://jmp2.uk/plu-5d14fc31252d35decbc4080b.m3u8
 
-#EXTINF:0 group-title="MTV", Spankin' New
-https://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5d14fdb8ca91eedee1633117/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=509f4222-6d49-11f0-b6c5-0ddf473bc021&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=c885bfd2-dd29-4909-a4db-743f2ab81829&userId=&serverSideAds=true
+#EXTINF:0 tvg-logo="https://i.imgur.com/thbvJd1.png" group-title="MTV", Spankin' New
+https://jmp2.uk/plu-5d14fdb8ca91eedee1633117.m3u8
 
 #EXTINF:0 group-title="MTV", Biggest Pop
-https://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5d14fd1a252d35decbc4080c/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=509f6930-6d49-11f0-b6c5-0ddf473bc021&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=bdc3e082-b450-4e79-afb4-4391e006d592&userId=&serverSideAds=true
-
-#EXTINF:0 group-title="MTV", Flow Latino
-https://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5d3609cd6a6c78d7672f2a81/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=509f6931-6d49-11f0-b6c5-0ddf473bc021&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=e9cbf247-cd46-4758-9cb1-7c9d3f057645&userId=&serverSideAds=true
 
 
 ################################### NOW #############################################
@@ -85,59 +77,46 @@ https://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/660c209e19ca71000846c
 
 ################################### VEVO #############################################
 
-#EXTINF:0 group-title="Vevo", 70s
-https://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5f32f26bcd8aea00071240e5/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=509ea5e1-6d49-11f0-b6c5-0ddf473bc021&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=1bfe10e5-1a7e-4350-b5e4-cc22332b9a0b&userId=&serverSideAds=true
+#EXTINF:0 tvg-logo="https://images.pluto.tv/channels/5f32f26bcd8aea00071240e5/featuredImage.jpg" group-title="Vevo", 70s
+https://amg00056-vevotv-vevo70saunz-samsungau-xzszd.amagi.tv/playlist/amg00056-vevotv-vevo70saunz-samsungau/playlist.m3u8
 
-#EXTINF:0 group-title="Vevo", 80s
-http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5fd7b8bf927e090007685853/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D
-https://jmp2.uk/sam-USBD300012YC.m3u8
-https://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5fd7b8bf927e090007685853/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=509eccf0-6d49-11f0-b6c5-0ddf473bc021&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=fb1e702e-c77d-4aff-ae20-f5c848507a1b&userId=&serverSideAds=true
+#EXTINF:0 tvg-logo="https://images.pluto.tv/channels/5fd7b8bf927e090007685853/featuredImage.jpg" group-title="Vevo", 80s
+https://amg00056-vevotv-vevo80saunz-samsungau-rp5e3.amagi.tv/playlist/amg00056-vevotv-vevo80saunz-samsungau/playlist.m3u8
 
-#EXTINF:0 group-title="Vevo", 70s & 80s
-https://d8ey2gcjuai15.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-t4dwcnavbvxsk/Vevo70sand80s_GB.m3u8
+#EXTINF:0 tvg-logo="https://images.pluto.tv/channels/5fd7bb1f86d94a000796e2c2/featuredImage.jpg" group-title="Vevo", 90s
+https://amg00056-vevotv-vevo90saunz-samsungau-n6a0d.amagi.tv/playlist/amg00056-vevotv-vevo90saunz-samsungau/playlist.m3u8
 
-#EXTINF:0 group-title="Vevo", 90s
-https://d2yw87dguyr3x7.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-gm31ezw31rx7a/playlist.m3u8
-https://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5fd7bb1f86d94a000796e2c2/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=509eccf1-6d49-11f0-b6c5-0ddf473bc021&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=4899385b-7195-4465-b2ff-14d25c068bb9&userId=&serverSideAds=true
-http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5fd7bb1f86d94a000796e2c2livestitch/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D
+#EXTINF:0 tvg-logo="https://images.pluto.tv/channels/5fd7bca3e0a4ee0007a38e8c/featuredImage.jpg" group-title="Vevo", 2k
+https://d1s6jz7jeei17.cloudfront.net/playlist/amg00056-vevotv-vevo2kau-samsungau/playlist.m3u8
 
-#EXTINF:0 group-title="Vevo", 2k
-https://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5fd7bca3e0a4ee0007a38e8c/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=509eccf2-6d49-11f0-b6c5-0ddf473bc021&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=585e0632-929e-4f1a-b743-579f065341ec&userId=&serverSideAds=true
+#EXTINF:0 tvg-logo="https://images.pluto.tv/channels/5da0d75e84830900098a1ea0/featuredImage.jpg" group-title="Vevo", Country
+https://amg00056-vevotv-vevocountryau-samsungau-ktmqm.amagi.tv/playlist/amg00056-vevotv-vevocountryau-samsungau/playlist.m3u8
 
-#EXTINF:0 group-title="Vevo", Country
-https://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5da0d75e84830900098a1ea0/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=509ef402-6d49-11f0-b6c5-0ddf473bc021&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=2c352f2f-c91b-4924-bd9e-cc2ef58ccfa6&userId=&serverSideAds=true
-https://jmp2.uk/sam-CABC52000165E.m3u8
+#EXTINF:0 tvg-logo="https://i.imgur.com/Lbc9cYw.png" group-title="Vevo", Hip-Hop
 
-#EXTINF:0 group-title="Vevo", True School Hip-Hop
-https://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/61d4c2817a823d00070ba53e/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=509f1b10-6d49-11f0-b6c5-0ddf473bc021&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=2052005f-296f-4935-a68a-7cb244c60acb&userId=&serverSideAds=true
+#EXTINF:0 tvg-logo="https://images.pluto.tv/channels/5da0d83f66c9700009b96d0e/featuredImage.jpg" group-title="Vevo", R&B
+https://d1hf773q57zx9s.cloudfront.net/Vevo_R_B.m3u8
 
-#EXTINF:0 group-title="Vevo", R&B
-https://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5da0d83f66c9700009b96d0e/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=509f1b11-6d49-11f0-b6c5-0ddf473bc021&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=cbdd0901-8d5c-48c3-9dbf-f42f19f358d0&userId=&serverSideAds=true
+#EXTINF:0 tvg-logo="https://i.imgur.com/H1Aap4E.png" group-title="Vevo", Rock
+https://d2lyea6if8kkz9.cloudfront.net/playlist/amg00056-vevotv-vevoretrorockau-samsungau/playlist.m3u8
 
-#EXTINF:0 group-title="Vevo", Rock
-https://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/61d4b38226b8a50007fe03a6/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=509f1b12-6d49-11f0-b6c5-0ddf473bc021&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=9185e9a6-2af8-48a1-b2b6-ebd456300b66&userId=&serverSideAds=true
-
-#EXTINF:0 group-title="Vevo", Pop
-https://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5d93b635b43dd1a399b39eee/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=509f4221-6d49-11f0-b6c5-0ddf473bc021&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=10ad00a2-98c3-4fdb-8085-ac9da74b8c24&userId=&serverSideAds=true
+#EXTINF:0 tvg-logo="https://i.imgur.com/dZHktKR.png" group-title="Vevo", Pop
+https://d128y56w6v2kax.cloudfront.net/playlist/amg00056-vevotv-vevopopau-samsungau/playlist.m3u8
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00056-vevotv-vevopopau-samsungau/playlist.m3u8
-https://jmp2.uk/sam-CABC52000180Z.m3u8
 
 
 ################################### XITE #############################################
 
 #EXTINF:0 group-title="XITE", Hits
 https://xite-hitsuk-lg.amagi.tv/playlist.m3u8
-https://xite-hitsuk-lg.amagi.tv/playlist.m3u8
 
-#EXTINF:0 group-title="XITE", Rock x Metal
-https://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/623a1b5188ecdc0007c9ef5a/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=509f4220-6d49-11f0-b6c5-0ddf473bc021&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=7a760f8b-33cf-4f6b-9863-80bebfe88371&userId=&serverSideAds=true
-https://jmp2.uk/sam-CABB26000054K.m3u8
+#EXTINF:0 tvg-logo="https://i.imgur.com/uIIUIuN.png" group-title="XITE", Rock x Metal
+https://d198ro05q94rc4.cloudfront.net/XITE_Rock_On.m3u8
 
 #EXTINF:0 group-title="XITE", Gospel
-https://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/623b93628e6ded0007337d4d/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=509f6932-6d49-11f0-b6c5-0ddf473bc021&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=07c8e4c0-edd8-4a93-8b1e-01148da4eaa2&userId=&serverSideAds=true
 
-#EXTINF:0 group-title="XITE", 90s Throwback
-https://jmp2.uk/sam-CABB2600018T4.m3u8
+#EXTINF:0 tvg-logo="https://i.imgur.com/vwpOzuz.png" group-title="XITE", 90s Throwback
+https://d284aawtm5vi48.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-fjdfi2br1jtq7/XITE_90s_Throwback.m3u8
 
 #EXTINF:0 group-title="XITE",  80s Flashback
 https://jmp2.uk/sam-CABB2600017ZU.m3u8
@@ -148,21 +127,16 @@ https://jmp2.uk/sam-CABD17000043J.m3u8
 #EXTINF:0 group-title="XITE", Country Today
 https://jmp2.uk/sam-CABD120001993.m3u8
 
-#EXTINF:0 group-title="XITE", Classic Country
-https://jmp2.uk/sam-CABD1200023UJ.m3u8
-https://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/623b92a2ccefed0007b1db48/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=509ef401-6d49-11f0-b6c5-0ddf473bc021&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=31ca42e3-bca0-409b-80b2-f394364aafde&userId=&serverSideAds=true
+#EXTINF:0 tvg-logo="https://i.imgur.com/XQrMCkT.png" group-title="XITE", Classic Country
 
 #EXTINF:0 group-title="XITE", Christian Hits
-https://jmp2.uk/sam-CA460001636.m3u8
 
 #EXTINF:0 group-title="XITE", R&B Classic Jams
-https://jmp2.uk/sam-CABD1200021MS.m3u8
 
-#EXTINF:0 group-title="XITE", Reggae Vibes
-https://jmp2.uk/sam-CA4600018HP.m3u8
+#EXTINF:0 tvg-logo="https://provider-static.plex.tv/epg/cms/production/c7506335-967f-46a9-917a-2a35475cd96c/xitereggaevibes_logo_light_-_Arlette_FiranRDX.png" group-title="XITE", Reggae Vibes
 
-#EXTINF:0 group-title="XITE", Just Chill
-https://jmp2.uk/sam-CABB2600004RZ.m3u8
+#EXTINF:0 tvg-logo="https://provider-static.plex.tv/epg/cms/production/927dd614-017d-49dd-9eb9-0ed79d09084e/xitejustchill_logo_light_-_Arlette_FiranRDX.png" group-title="XITE", Just Chill
+https://dvnftgdlbnemm.cloudfront.net/XITE_Just_Chill.m3u8
 
 
 ################################### Stingray #############################################
