@@ -28,6 +28,7 @@ https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Zing/default/main.mpd
 
 #EXTINF:-1 tvg-id="1" group-title="Music",Showbox
 
+
 ################################### English #############################################
 
 
@@ -151,126 +152,120 @@ https://dvnftgdlbnemm.cloudfront.net/XITE_Just_Chill.m3u8
 
 ################################### Stingray #############################################
 
-#EXTINF:-1 group-title="Music", Euro Hits
-https://jmp2.uk/sam-CA4700001Z6.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Music", Euro Hits
+https://lotus.stingray.com/manifest/ose-214ads-montreal/samsungtvplus/master.m3u8
 
-#EXTINF:-1 group-title="Music", Hit List
+#EXTINF:-1 tvg-logo="https://i.imgur.com/CfUIllx.jpeg" group-title="Music", Hit List
 https://lotus.stingray.com/manifest/ose-107ads-montreal/samsungtvplus/master.m3u8
 https://dbrb49pjoymg4.cloudfront.net/v1/master/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod_default_xumo-ams-aws/master.m3u8?ads.xumo_channelId=99991117
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/Hz2d6og.png" group-title="Music", Greatest Hits
+#EXTINF:-1 tvg-logo="" tvg-logo="https://i.imgur.com/Hz2d6og.png" group-title="Music", Greatest Hits
 https://d39g1vxj2ef6in.cloudfront.net/v1/manifest/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod-rakuten-stitched/54947915-6504-4548-aaef-eabd451f8607/1.m3u8
-https://lotus.stingray.com/manifest/ose-155ads-montreal/samsungtvplus/master.m3u8 
+https://lotus.stingray.com/manifest/ose-155ads-montreal/samsungtvplus/master.m3u8
 https://d2ijgfgrz03rvu.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-l5gypvhxzqytm/manifest/ose-155ads-montreal/samsungtvplus/master.m3u8
 
-#EXTINF:-1 group-title="Music", Soft Hits
-https://jmp2.uk/sam-CA4700006LN.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Music", Soft Hits
+https://lotus.stingray.com/manifest/ose-237ads-montreal/samsungtvplus/master.m3u8
 
-#EXTINF:-1 group-title="Music", Adult Pop
+#EXTINF:-1 tvg-logo="https://i.imgur.com/BCCEB4b.jpeg" group-title="Music", Pop Adult
 https://lotus.stingray.com/manifest/ose-104ads-montreal/samsungtvplus/master.m3u8 
 
-#EXTINF:-1 group-title="Music", Classica
+#EXTINF:-1 tvg-logo="" group-title="Music", Classica
 https://lotus.stingray.com/manifest/classica-cla008-montreal/samsungtvplus/master.m3u8
-https://jmp2.uk/sam-CA400005W4.m3u8
 
-#EXTINF:-1 group-title="Music", Cmusic
+#EXTINF:-1 tvg-logo="https://i.imgur.com/3RVQZ3l.jpeg" group-title="Music", CMusic
 http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/64240d00dbdaaa00085bc5e2/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=2c799158-35fc-11ef-a031-2b5d494037a2&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=591a5510-6f0c-4769-9f52-fb2ec0e8a3ea
 https://lotus.stingray.com/manifest/cmusic-cme004-montreal/samsungtvplus/master.m3u8
 
-#EXTINF:-1 group-title="Music", Movie Music
-https://jmp2.uk/sam-CA4700002IH.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Music", Movie Music
 
-#EXTINF:-1 group-title="Music", Hip Hop
+#EXTINF:-1 tvg-logo="https://i.imgur.com/JBD2UP9.jpeg" group-title="Music", Hip Hop
 https://lotus.stingray.com/manifest/ose-133ads-montreal/samsungtvplus/master.m3u8 
-https://jmp2.uk/sam-CABD1200029U0.m3u8
 
-#EXTINF:-1 group-title="Music", Nothin' But 90s
+#EXTINF:-1 tvg-logo="https://i.imgur.com/AnxGJcI.jpeg" group-title="Music", Nothin' But '90s
 https://lotus.stingray.com/manifest/ose-142ads-montreal/samsungtvplus/master.m3u8 
-https://jmp2.uk/sam-CABD1200033B1.m3u8
 
-#EXTINF:-1 group-title="Music", Remember The '80s
+#EXTINF:-1 tvg-logo="https://i.imgur.com/G2l6rud.jpeg" group-title="Music", Remember The '80s
 https://lotus.stingray.com/manifest/ose-128ads-montreal/samsungtvplus/master.m3u8
 https://d1imh73yrie9zu.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-tqikpnjgwyvj8/manifest/ose-128ads-montreal/samsungtvplus/master.m3u8
-https://jmp2.uk/sam-CABD1200026VA.m3u8
 
-#EXTINF:-1 group-title="Music", Flashback '70s
+#EXTINF:-1 tvg-logo="https://i.imgur.com/xNIOvbA.jpeg" group-title="Music", Flashback '70s
 https://lotus.stingray.com/manifest/ose-115ads-montreal/samsungtvplus/master.m3u8
 https://d30hccj9v28bt6.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-jp7qdac3e1wzj/manifest/ose-115ads-montreal/samsungtvplus/master.m3u8
-https://jmp2.uk/sam-CABD1200028QO.m3u8
 
-#EXTINF:-1 group-title="Music", Jukebox Oldies
-https://jmp2.uk/sam-CA47000052C.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/kbaO0F3.jpeg" group-title="Music", Jukebox Oldies
+https://lotus.stingray.com/manifest/ose-021ads-montreal/samsungtvplus/master.m3u8
 
-#EXTINF:-1 group-title="Music", Easy Listening
+#EXTINF:-1 tvg-logo="https://i.imgur.com/vLkEBje.jpeg" group-title="Music", Easy Listening
 https://lotus.stingray.com/manifest/ose-137ads-montreal/samsungtvplus/master.m3u8
-https://jmp2.uk/sam-CABD1200030YP.m3u8
 
-#EXTINF:-1 group-title="Music", Naturescape
+#EXTINF:-1 tvg-id="StingrayKaraoke.ca@SD" tvg-logo="https://i.imgur.com/v2VMgSh.jpeg" group-title="Music",Karaoke
+https://lotus.stingray.com/manifest/karaoke-kar000-montreal/samsungtvplus/master.m3u8
+
+#EXTINF:-1 tvg-id="StingrayHolidayscapes.ca@HD" tvg-logo="https://i.imgur.com/hj21n46.jpeg" group-title="Music", Holidayscapes
+https://d10cyxntpn0bwm.cloudfront.net/master.m3u8
+https://plextv.ott-channels.stingray.com/holidayscapes/master.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="Music", Naturescape
 https://jmp2.uk/plu-5812bd9f249444e05d09cc4e.m3u8
+https://lotus.stingray.com/manifest/naturescape-a003-montreal/samsungtvplus/master.m3u8
 
-#EXTINF:-1 group-title="Music", ZenLIFE
+#EXTINF:-1 tvg-logo="" group-title="Music", ZenLIFE
 https://jmp2.uk/plu-696998dfa2b623e8b20125a3.m3u8
+https://lotus.stingray.com/manifest/zenlife-zen001-montreal/samsungtvplus/master.m3u8
 
-#EXTINF:-1 group-title="Music", Spa
+#EXTINF:-1 tvg-logo="https://i.imgur.com/G45q0wl.jpeg" group-title="Music", The Spa
 https://lotus.stingray.com/manifest/ose-122ads-montreal/samsungtvplus/master.m3u8
-https://jmp2.uk/sam-CABD1200032N6.m3u8
 
-#EXTINF:-1 group-title="Music", Soul Storm
+#EXTINF:-1 tvg-logo="" group-title="Music", Soul Storm
 https://lotus.stingray.com/manifest/ose-134ads-montreal/samsungtvplus/master.m3u8
 
-#EXTINF:-1 group-title="Music", Smooth Jazz
+#EXTINF:-1 tvg-logo="https://i.imgur.com/eazpM0m.jpeg" group-title="Music", Smooth Jazz
 https://lotus.stingray.com/manifest/ose-140ads-montreal/samsungtvplus/master.m3u8
-https://jmp2.uk/sam-CABD1200031NL.m3u8
 
-#EXTINF:-1 group-title="Music", DJAZZ
+#EXTINF:-1 tvg-logo="" group-title="Music", DJAZZ
 https://jmp2.uk/plu-696689d13b9ce349c9be3a18.m3u8
+https://lotus.stingray.com/manifest/djazz-djaads-montreal/samsungtvplus/master.m3u8
 
-#EXTINF:-1 group-title="Music", Classic Rock
+#EXTINF:-1 tvg-logo="https://i.imgur.com/0DOQ9Nw.jpeg" group-title="Music", Classic Rock
 https://lotus.stingray.com/manifest/ose-101ads-montreal/samsungtvplus/master.m3u8
-https://jmp2.uk/sam-CABD1200036YT.m3u8
 
-#EXTINF:-1 group-title="Music", Alternative
+#EXTINF:-1 tvg-logo="https://i.imgur.com/X1NDSsk.jpeg" group-title="Music", Rock Alternative
 https://lotus.stingray.com/manifest/ose-102ads-montreal/samsungtvplus/master.m3u8
 
-#EXTINF:-1 group-title="Music", Country Greats
-https://jmp2.uk/sam-CA47000031R.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Music", Country Greats
 
-#EXTINF:-1 group-title="Music", Hot Country
-https://jmp2.uk/sam-CABD1200025IX.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/4x8LiSS.jpeg" group-title="Music", Hot Country
+https://lotus.stingray.com/manifest/ose-108ads-montreal/samsungtvplus/master.m3u8
 
-#EXTINF:-1 group-title="Music", Today's K-Pop
+#EXTINF:-1 tvg-logo="" group-title="Music", Today's K-Pop
 https://lotus.stingray.com/manifest/ose-317ads-montreal/samsungtvplus/master.m3u8
-https://jmp2.uk/sam-CABD1200034DU.m3u8
 
-#EXTINF:-1 group-title="Music",Qello Concerts
-https://jmp2.uk/sam-CA400004SM.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Music",Qello Concerts
+https://lotus.stingray.com/manifest/qello-qello001-montreal/samsungtvplus/master.m3u8
 
-#EXTINF:-1 group-title="Music", Romance Latino
+#EXTINF:-1 tvg-logo="" group-title="Music", Romance Latino
 https://lotus.stingray.com/manifest/ose-202ads-montreal/samsungtvplus/master.m3u8
-https://jmp2.uk/sam-CABD1200035WW.m3u8
 
-#EXTINF:-1 group-title="Music", Exitos Del Momento
+#EXTINF:-1 tvg-logo="" group-title="Music", Exitos Del Momento
 https://lotus.stingray.com/manifest/ose-190ads-montreal/samsungtvplus/master.m3u8
 
-#EXTINF:-1 group-title="Music", Today's Latin Pop
-https://jmp2.uk/sam-CABD1200027JL.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/fl7BH9r.jpeg" group-title="Music", Today's Latin
+https://lotus.stingray.com/manifest/ose-190ads-montreal/samsungtvplus/master.m3u8
 
-#EXTINF:-1 group-title="Music", Souvenirs
-https://jmp2.uk/sam-CA29000146S.m3u8
+#EXTINF:-1 tvg-id="StingrayUrbanBeat.ca@SD" tvg-logo="https://i.imgur.com/Nl0t7S0.jpeg" group-title="Music", Urban Beat
+https://lotus.stingray.com/manifest/ose-133ads-montreal/samsungtvplus/master.m3u8
 
-#EXTINF:-1 group-title="Music", le Palmares
-https://jmp2.uk/sam-CA2900015NH.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Music", Souvenirs
 
-#EXTINF:-1 group-title="Music", Nostalgie
-https://jmp2.uk/sam-CA2900017MW.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Q6exvth.jpeg" group-title="Music", le Palmares
 
-#EXTINF:-1 group-title="Music", Franco Retro
-https://jmp2.uk/sam-CA29000139Y.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/tSIGnbx.jpeg" group-title="Music", Nostalgie
 
-#EXTINF:-1 group-title="Music", Franco Pop
-https://jmp2.uk/sam-CA290001647.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/IDWMOVx.jpeg" group-title="Music", Franco Retro
 
-#EXTINF:-1 group-title="Music", Franco Country
-https://jmp2.uk/sam-CA29000183M.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/GltP7NC.jpeg" group-title="Music", Franco Pop
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/IpzGCl0.jpeg" group-title="Music", Franco Country
 
 
