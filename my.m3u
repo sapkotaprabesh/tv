@@ -51,7 +51,6 @@ https://mhdtv.co.in/jio/stream.php?id=415&e=.m3u8
 https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Zeeanmolcinema/default/manifest.mpd
 https://ntv.onrender.com/0-9-zeeanmol
 #EXTINF:-1 tvg-id="and.flix" tvg-logo="https://indeltv.com/wp-content/uploads/2019/01/flix.png" group-title="Movies",&flix HD
-https://ntv.onrender.com/0-9-channel_2105335046
 #EXTINF:-1 tvg-id="762" tvg-logo="https://upload.wikimedia.org/wikipedia/en/5/5f/Sony_PIX.png" group-title="Movies",Sony Pix
 https://dai.google.com/linear/hls/event/x7rXWd2ERZ2tvyQWPmO1HA/master.m3u8
 
@@ -86,10 +85,8 @@ https://ntv.onrender.com/Pogo_Hindi
 https://iptv.prax.to/NICKTOONS
 #EXTINF:-1 tvg-id="5e20b730f2f8d5003d739db7-5f170d60b898490041b49359" tvg-logo="https://provider-static.plex.tv/epg/images/ott_channels/logos/tg-toon-goggles-us.png" group-title="Kids",Toon Goggles
 https://amg01329-otterainc-toongoggles-samsungau-ad-4c.amagi.tv/playlist/amg01329-otterainc-toongoggles-samsungau/playlist.m3u8
-https://i.mjh.nz/SamsungTVPlus/GBBC4000017F.m3u8
-
-
-
+http://stream-us-east-1.getpublica.com/playlist.m3u8?network_id=37
+http://d3i6upqaqzosi1.cloudfront.net/tg/jr_us/tg_jr_us.m3u8
 
 #EXTINF:-1 tvg-id="821" tvg-logo="https://i.imgur.com/nGSsUd4.png" group-title="Infotainment",BBC Earth
 https://amg00793-bbcstudios-amg00793c3-lg-us-2528.playouts.now.amagi.tv/playlist/amg00793-bbcstudios-bbcearta-lgus/playlist.m3u8
@@ -115,6 +112,7 @@ https://iptv.prax.to/HISTORY
 
 #EXTINF:-1 tvg-id="fox.sports" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/FOX_Sports_logo.svg/1280px-FOX_Sports_logo.svg.png" group-title="Sports",Fox Sports
 https://iptv.prax.to/FOX_SPORTS
+http://d1jzu95oc8fgt3.cloudfront.net/FOX_Sports.m3u8
 https://jmp2.uk/plu-5a74b8e1e22a61737979c6bf.m3u8
 http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/VCQ4ADX96VH4G8PY7URBWRQU/19146/index.m3u8
 #EXTINF:-1 tvg-id="bein.sports" tvg-logo="https://assets.beinsports.com/beIN_SPORTS.png" group-title="Sports",Bein Sports
@@ -137,6 +135,7 @@ https://aegis-cloudfront-1.tubi.video/b1c4d439-03a5-4c40-ae9d-90a183e010c9/euron
 https://jmp2.uk/stvp-GB2600019ON
 #EXTINF:-1 tvg-id="255" tvg-logo="https://cdn.ndtv.com/common/images/ogndtv.png" group-title="News",NDTV
 https://ndtvindiaelemarchana.akamaized.net/hls/live/2003679/ndtvindia/master.m3u8
+https://d1rc86nwwc9fag.cloudfront.net/v1/vglive-sk-401405/0194a671d8dd1ebd416a3e0a8a4524/0194a67abb941ebd47043cd206ba4f/ndtv247_720p.m3u8
 #EXTINF:-1 tvg-id="ari.rang" tvg-logo="https://i.imgur.com/bDbObLR.png" group-title="International",Arirang
 http://amdlive.ctnd.com.edgesuite.net/arirang_1ch/smil:arirang_1ch.smil/playlist.m3u8
 https://ntv.onrender.com/ott_abr/arirangabr

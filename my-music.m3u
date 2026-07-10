@@ -108,6 +108,7 @@ https://amg00056-vevotv-vevo80saunz-samsungnz-96vhe.amagi.tv/playlist/amg00056-v
 https://jmp2.uk/plu-5fd7b8bf927e090007685853.m3u8
 
 #EXTINF:0 tvg-logo="" group-title="Music", '70s & '80s
+https://d38e11bvtr8xdq.cloudfront.net/Vevo70sand80s_GB.m3u8
 https://jmp2.uk/stvp-GBBD1900009UD
 https://jmp2.uk/stvp-ITBD1900010JL
 
@@ -115,13 +116,13 @@ https://jmp2.uk/stvp-ITBD1900010JL
 https://amg00056-vevotv-vevo90saunz-samsungau-n6a0d.amagi.tv/playlist/amg00056-vevotv-vevo90saunz-samsungau/playlist.m3u8
 https://jmp2.uk/plu-5fd7bb1f86d94a000796e2c2.m3u8
 
+#EXTINF:-1 tvg-id="7ab42044-7060-476c-9198-62843a7d2cb6" tvg-logo="" group-title="Music",'90s & '00s
+https://d1cj21il6keqa2.cloudfront.net/playlist.m3u8
+
 #EXTINF:0 tvg-logo="https://images.pluto.tv/channels/5fd7bca3e0a4ee0007a38e8c/featuredImage.jpg" group-title="Music", 2k
 https://jmp2.uk/plu-5fd7bca3e0a4ee0007a38e8c.m3u8
 https://d1s6jz7jeei17.cloudfront.net/playlist/amg00056-vevotv-vevo2kau-samsungau/playlist.m3u8
 https://amg00056-vevotv-vevo2kau-samsungnz-tamaq.amagi.tv/playlist/amg00056-vevotv-vevo2kau-samsungnz/playlist.m3u8
-
-#EXTINF:-1 tvg-id="7ab42044-7060-476c-9198-62843a7d2cb6" tvg-logo="" group-title="Music",'90s & '00s
-https://d1cj21il6keqa2.cloudfront.net/playlist.m3u8
 
 #EXTINF:-1 tvg-id="6f8d32c4-85b4-498d-a40c-0d0ad1367ba1" tvg-logo="https://cdn.tvivu.com/logos/vevo-2010s-us-160.webp" group-title="Music", 2010s
 https://d3j50s1rkjmwi9.cloudfront.net/Vevo_2010s.m3u8
@@ -137,6 +138,9 @@ https://jmp2.uk/stvp-GBBD2300001C0
 #EXTINF:0 tvg-logo="https://images.pluto.tv/channels/5da0d83f66c9700009b96d0e/featuredImage.jpg" group-title="Music", R&B
 https://d1hf773q57zx9s.cloudfront.net/Vevo_R_B.m3u8
 https://jmp2.uk/plu-5da0d83f66c9700009b96d0e.m3u8
+
+#EXTINF:0 tvg-logo="" group-title="Music", Hip Hop & R&B
+https://d7i20u8nlyf1b.cloudfront.net/VevoHipHopRB_GB.m3u8
 
 #EXTINF:-1 tvg-id="f7920ec9-2799-4931-bf0b-9f9de15e4abb" tvg-logo="https://cdn.tvivu.com/logos/vevo-retro-es-160.webp" group-title="Music",Retro
 https://jmp2.uk/stvp-ESBD230000289
@@ -160,6 +164,7 @@ https://jmp2.uk/stvp-GBBC19000017V
 #EXTINF:0 group-title="Music", Hits
 https://xite-hitsuk-lg.amagi.tv/playlist.m3u8
 https://xite-rakuten.amagi.tv/playlist.m3u8
+http://d726x48n2pd5h.cloudfront.net/XITE_Hits.m3u8
 https://jmp2.uk/stvp-USBD3300004RH
 
 #EXTINF:0 tvg-logo="https://i.imgur.com/uIIUIuN.png" group-title="Music", Rock x Metal
@@ -172,13 +177,14 @@ https://jmp2.uk/stvp-CABB26000054K
 
 #EXTINF:0 tvg-logo="https://i.imgur.com/vwpOzuz.png" group-title="Music", 90s Throwback
 https://d284aawtm5vi48.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-fjdfi2br1jtq7/XITE_90s_Throwback.m3u8
+http://d284aawtm5vi48.cloudfront.net/XITE_90s_Throwback.m3u8
 https://jmp2.uk/stvp-CABB2600018T4
 
-#EXTINF:0 group-title="Music",  80s Flashback
-https://jmp2.uk/sam-CABB2600017ZU.m3u8
+#EXTINF:0 group-title="Music", 80s Flashback
+http://d1n314cytqn9r3.cloudfront.net/XITE_80s_Flashback.m3u8
 
 #EXTINF:0 group-title="Music", Celebrates
-https://jmp2.uk/sam-CABD17000043J.m3u8
+http://dt1s4l2cmiyit.cloudfront.net/XITE_Celebrates.m3u8
 https://jmp2.uk/stvp-CABD17000043J
 
 #EXTINF:0 group-title="Music", Country Today
