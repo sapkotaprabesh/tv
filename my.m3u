@@ -10,9 +10,11 @@ https://spt-sonykal-1-us.lg.wurl.tv/playlist.m3u8
 http://iptvtree.net:8080/vtprotonium/CuUWPf5b7jywB68SxZ5/145644
 https://prod-ent-live-gm.jiocinema.com/bpk-tv/Colors_HD_voot_MOB/Fallback/index.m3u8
 #EXTINF:-1 tvg-id="StarPlusHD.in" tvg-logo="https://i.imgur.com/WbvMMOR.png" group-title="Entertainment",Star Plus HD
-https://ntv.onrender.com/Star_Plus_HD
+http://41.205.77.102/STAR-PLUS/index.m3u8
 #EXTINF:-1 tvg-id="248" tvg-logo="https://www.maryville.edu/wp-content/uploads/2017/08/mtv-logo.png" group-title="Entertainment",MTV
 https://iptv.prax.to/MTV
+http://41.205.77.102/MTVUSA/index.m3u8
+http://198.58.104.90:8989/mtv/index.m3u8
 #EXTINF:-1 tvg-id="479"  tvg-logo="https://tvpmlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/70/02/05/INBC1500004JR_20220427T054807.png" group-title="Entertainment",TLC
 https://iptv.prax.to/TLC
 https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Tlc2/default/manifest.mpd
@@ -34,16 +36,15 @@ https://ntv.onrender.com/star_gold_select
 #EXTINF:-1 tvg-id="289"  tvg-logo="https://dsnnepal.com/wp-content/uploads/2020/08/Sony_Max_HD.png" group-title="Movies",Sony Max
 https://dai.google.com/linear/hls/event/UcjHNJmCQ1WRlGKlZm73QA/master.m3u8
 #EXTINF:-1 tvg-id="484" tvg-logo="https://image.airtel.tv/MWTV/MWTV_LIVETVCHANNEL_580/PORTRAIT/sjM1MbFR.png" group-title="Movies",Zee Cinema
-https://ntv.onrender.com/0-9-zeecinemahd
 https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Zeecinemahd/default/manifest.mpd
-https://d75dqofg5kmfk.cloudfront.net/bpk-tv/Zeecinemahd/default/index.m3u8
 #EXTINF:-1 tvg-id="185" tvg-logo="https://www.tvchannelpricelist.com/wp-content/uploads/channels-logo-300/and-pictures-hd-logo-300x300.jpg" group-title="Movies",&pictures
 https://live.drmlive-02.workers.dev/zee/tvpictureshd.m3u8
 https://d75dqofg5kmfk.cloudfront.net/bpk-tv/Andpictureshd/default/index.m3u8
 https://ntv.onrender.com/ott_abr/andpictureshdabr
 https://ntv.onrender.com/0-9-tvpictureshd
 #EXTINF:-1 tvg-id="1477" tvg-logo="https://dsnnepal.com/wp-content/uploads/2020/08/colors-cineplex-hd.jpg" group-title="Movies",Colors Cineplex
-https://ntv.onrender.com/Colors_Cineplex
+http://41.205.77.102/ZEE-CINEMA/index.m3u8
+http://41.223.30.230/ZEECINEMA/index.m3u8
 #EXTINF:-1 tvg-id="415" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/d/dd/Zee-anmol-cinema.jpg" group-title="Movies",Zee Anmol Cinema
 #EXTVLCOPT:http-referrer="https://mhdtv.co.in/jio/stream.php?id=415&e=.m3u8"
 https://mhdtv.co.in/jio/stream.php?id=415&e=.m3u8
@@ -108,6 +109,7 @@ https://iptv.prax.to/NAT_GEO
 https://admdn2.cdn.mangomolo.com/nagtv/smil:nagtv.stream.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="nat.geowild" tvg-logo="https://www.ifia.com/wp-content/uploads/2020/05/seo.ngsversion.1565614141405-768x403.jpg" group-title="Infotainment",Nat Geo Wild
 https://iptv.prax.to/NAT_GEO_WILD
+http://217.20.112.199:8080/natgeowild/index.m3u8
 #EXTINF:-1 tvg-id="1471" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/6/67/History_tv18_hd.png" group-title="Infotainment",History TV18
 https://iptv.prax.to/HISTORY
 
@@ -131,7 +133,8 @@ https://iptv.prax.to/SONY_SPORTS
 https://ntv.onrender.com/FRANCE24English
 https://ntv.onrender.com/ott_abr/france24abr
 #EXTINF:-1 tvg-id="1244" tvg-logo="https://a.jsrdn.com/hls/22886/euronews/logo_20231218_175557_70.png" group-title="News",Euronews
-https://ntv.onrender.com/distro.tv/1244
+https://aegis-cloudfront-1.tubi.video/b1c4d439-03a5-4c40-ae9d-90a183e010c9/euronews-en.m3u8
+https://jmp2.uk/stvp-GB2600019ON
 #EXTINF:-1 tvg-id="255" tvg-logo="https://cdn.ndtv.com/common/images/ogndtv.png" group-title="News",NDTV
 https://ndtvindiaelemarchana.akamaized.net/hls/live/2003679/ndtvindia/master.m3u8
 #EXTINF:-1 tvg-id="ari.rang" tvg-logo="https://i.imgur.com/bDbObLR.png" group-title="International",Arirang

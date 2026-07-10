@@ -6,22 +6,32 @@
 https://da86m1sqpm3o0.cloudfront.net/28072023/smil:9xmusic4.smil/playlist.m3u8
 https://epiconvh.akamaized.net/9XM/master.m3u8
 https://9xjio.wiseplayout.com/9XM/master.m3u8
+https://jmp2.uk/stvp-IN38000050P
+https://epiconvh.akamaized.net/live/9XM/master.m3u8
 https://wiselp.wiseplayout.com/9XM/master.m3u8
 
 #EXTINF:-1 tvg-id="1" group-title="Music",9X Jalwa
 https://epiconvh.akamaized.net/9xJalwa/master.m3u8
 http://longstream-06.ajaah.com/PlayBoxTV/9XJalwa/playlist.m3u8
 https://d1g8wgjurz8via.cloudfront.net/bpk-tv/9xjalwa2/default/main.mpd
+https://mumt03.tangotv.in/Dsly5z3H9XJALWA/index.m3u8
 
 #EXTINF:-1 tvg-id="1" group-title="Music",9X Jhakas
+https://cdn-3.pishow.tv/live/6/master.m3u8
 
 #EXTINF:-1 tvg-id="1" group-title="Music",YRF
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01412-xiaomiasia-yrfmusic-xiaomi/playlist.m3u8
 
+#EXTINF:-1 tvg-id="1" tvg-logo="https://dtil.tmsimg.com/assets/s143563_ld_h15_aa.png?lock=720x540" group-title="Music",Music India
+https://cdn-2.pishow.tv/live/226/master.m3u8
+
 #EXTINF:-1 tvg-id="1" group-title="Music",Zoom
 https://dai.google.com/ssai/event/JCAm25qkRXiKcK1AJMlvKQ/master.m3u8
 https://mumbai-edge.smartplaytv.in/Zoom/index.m3u8
+https://d2esfk1pb9cdob.cloudfront.net/master.m3u8
 https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Zoom2/default/main.mpd
+https://dai.google.com/linear/hls/event/JCAm25qkRXiKcK1AJMlvKQ/master.m3u8
+https://pubads.g.doubleclick.net/ssai/event/JCAm25qkRXiKcK1AJMlvKQ/master.m3u8
 
 #EXTINF:-1 tvg-id="1" group-title="Music",Zing
 https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Zing/default/main.mpd
@@ -55,25 +65,35 @@ https://jmp2.uk/plu-5d14fdb8ca91eedee1633117.m3u8
 
 #EXTINF:0 group-title="MTV", Biggest Pop
 
+#EXTINF:-1 tvg-id="683eeb3d-e026-4a97-9616-b4747016698f" tvg-logo="" group-title="MTV",Classic
+http://206.212.244.63/117/index.m3u8
+
+################################### THAT'S #############################################
+
+#EXTINF:0 tvg-logo="" group-title="that's", 70s
+https://lightning-now70s-rakuten.amagi.tv/playlist.m3u8
+https://lightning-now70s-samsungnz.amagi.tv/playlist.m3u8
+
+#EXTINF:0 tvg-logo="" group-title="that's",80s
+https://lightning-now80s-samsungnz.amagi.tv/playlist720p.m3u8
+https://lightning-now80s-samsunguk.amagi.tv/playlist.m3u8
+
+#EXTINF:0 tvg-logo="" group-title="that's",90s & 00s
+
+
+#EXTINF:0 tvg-logo="" group-title="that's",Rock
+https://lightning-now90s-xiaomi.amagi.tv/playlist.m3u8
+https://lightning-now90s-samsungnz.amagi.tv/playlist.m3u8
+https://jmp2.uk/stvp-IN270000230
 
 ################################### NOW #############################################
 
-#EXTINF:0 group-title="NOW", 70s
-https://lightning-now70s-rakuten.amagi.tv/playlist.m3u8
-https://lightningnow70-samsungau.amagi.tv/playlist.m3u8
-https://lightning-now70s-samsungnz.amagi.tv/playlist.m3u8
+#EXTINF:0 tvg-logo="" group-title="NOW", 70s
 
-#EXTINF:0 group-title="NOW",80s
+#EXTINF:0 tvg-logo="" group-title="NOW",80s
 https://samsunguk-lightning-now80s-samsunguk-n908q.amagi.tv/playlist/samsunguk-lightning-now80s-samsunguk/playlist.m3u8
-https://lightning-now80s-samsungnz.amagi.tv/playlist720p.m3u8
-https://lightningnow80-samsungau.amagi.tv/playlist.m3u8
 
-#EXTINF:0 group-title="NOW",90s
-https://lightningnow90-samsungau.amagi.tv/playlist.m3u8
-https://lightning-now90s-xiaomi.amagi.tv/playlist.m3u8
-
-#EXTINF:0 group-title="NOW",90s & 00s
-https://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/660c209e19ca71000846cf38/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=web&servertSideAds=false&&deviceMake=github.com/inspirationlinks&deviceDNT=1
+#EXTINF:0 tvg-logo="" group-title="NOW",90s
 
 
 ################################### VEVO #############################################
@@ -84,7 +104,12 @@ https://jmp2.uk/plu-5f32f26bcd8aea00071240e5.m3u8
 
 #EXTINF:0 tvg-logo="https://images.pluto.tv/channels/5fd7b8bf927e090007685853/featuredImage.jpg" group-title="Vevo", 80s
 https://amg00056-vevotv-vevo80saunz-samsungau-rp5e3.amagi.tv/playlist/amg00056-vevotv-vevo80saunz-samsungau/playlist.m3u8
+https://amg00056-vevotv-vevo80saunz-samsungnz-96vhe.amagi.tv/playlist/amg00056-vevotv-vevo80saunz-samsungnz/playlist.m3u8
 https://jmp2.uk/plu-5fd7b8bf927e090007685853.m3u8
+
+#EXTINF:0 tvg-logo="" group-title="Vevo", '70s & '80s
+https://jmp2.uk/stvp-GBBD1900009UD
+https://jmp2.uk/stvp-ITBD1900010JL
 
 #EXTINF:0 tvg-logo="https://images.pluto.tv/channels/5fd7bb1f86d94a000796e2c2/featuredImage.jpg" group-title="Vevo", 90s
 https://amg00056-vevotv-vevo90saunz-samsungau-n6a0d.amagi.tv/playlist/amg00056-vevotv-vevo90saunz-samsungau/playlist.m3u8
@@ -93,6 +118,13 @@ https://jmp2.uk/plu-5fd7bb1f86d94a000796e2c2.m3u8
 #EXTINF:0 tvg-logo="https://images.pluto.tv/channels/5fd7bca3e0a4ee0007a38e8c/featuredImage.jpg" group-title="Vevo", 2k
 https://jmp2.uk/plu-5fd7bca3e0a4ee0007a38e8c.m3u8
 https://d1s6jz7jeei17.cloudfront.net/playlist/amg00056-vevotv-vevo2kau-samsungau/playlist.m3u8
+https://amg00056-vevotv-vevo2kau-samsungnz-tamaq.amagi.tv/playlist/amg00056-vevotv-vevo2kau-samsungnz/playlist.m3u8
+
+#EXTINF:-1 tvg-id="7ab42044-7060-476c-9198-62843a7d2cb6" tvg-logo="" group-title="Vevo",'90s & '00s
+https://d1cj21il6keqa2.cloudfront.net/playlist.m3u8
+
+#EXTINF:-1 tvg-id="6f8d32c4-85b4-498d-a40c-0d0ad1367ba1" tvg-logo="https://cdn.tvivu.com/logos/vevo-2010s-us-160.webp" group-title="Vevo", 2010s
+https://d3j50s1rkjmwi9.cloudfront.net/Vevo_2010s.m3u8
 
 #EXTINF:0 tvg-logo="https://images.pluto.tv/channels/5da0d75e84830900098a1ea0/featuredImage.jpg" group-title="Vevo", Country
 https://amg00056-vevotv-vevocountryau-samsungau-ktmqm.amagi.tv/playlist/amg00056-vevotv-vevocountryau-samsungau/playlist.m3u8
@@ -100,54 +132,72 @@ https://jmp2.uk/plu-5da0d75e84830900098a1ea0.m3u8
 
 #EXTINF:0 tvg-logo="https://i.imgur.com/Lbc9cYw.png" group-title="Vevo", Hip-Hop
 https://jmp2.uk/plu-61d4c2817a823d00070ba53e.m3u8
+https://jmp2.uk/stvp-GBBD2300001C0
 
 #EXTINF:0 tvg-logo="https://images.pluto.tv/channels/5da0d83f66c9700009b96d0e/featuredImage.jpg" group-title="Vevo", R&B
 https://d1hf773q57zx9s.cloudfront.net/Vevo_R_B.m3u8
 https://jmp2.uk/plu-5da0d83f66c9700009b96d0e.m3u8
 
+#EXTINF:-1 tvg-id="f7920ec9-2799-4931-bf0b-9f9de15e4abb" tvg-logo="https://cdn.tvivu.com/logos/vevo-retro-es-160.webp" group-title="Vevo",Retro
+https://jmp2.uk/stvp-ESBD230000289
+
 #EXTINF:0 tvg-logo="https://i.imgur.com/H1Aap4E.png" group-title="Vevo", Rock
-https://d2lyea6if8kkz9.cloudfront.net/playlist/amg00056-vevotv-vevoretrorockau-samsungau/playlist.m3u8
 https://jmp2.uk/plu-61d4b38226b8a50007fe03a6.m3u8
+
+#EXTINF:-1 tvg-id="2babcd51-e57f-49c0-9eeb-10bf0d080263" tvg-logo="https://cdn.tvivu.com/logos/vevo-retro-rock-160.webp" group-title="Vevo",Retro Rock
+https://d2lyea6if8kkz9.cloudfront.net/playlist/amg00056-vevotv-vevoretrorockau-samsungau/playlist.m3u8
 
 #EXTINF:0 tvg-logo="https://i.imgur.com/dZHktKR.png" group-title="Vevo", Pop
 https://d128y56w6v2kax.cloudfront.net/playlist/amg00056-vevotv-vevopopau-samsungau/playlist.m3u8
+https://d2n3779oy6efpi.cloudfront.net/playlist.m3u8
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00056-vevotv-vevopopau-samsungau/playlist.m3u8
 https://jmp2.uk/plu-5d93b635b43dd1a399b39eee.m3u8
+https://jmp2.uk/stvp-ITBC2100001G9
+https://jmp2.uk/stvp-GBBC19000017V
 
 ################################### XITE #############################################
 
 #EXTINF:0 group-title="XITE", Hits
 https://xite-hitsuk-lg.amagi.tv/playlist.m3u8
+https://xite-rakuten.amagi.tv/playlist.m3u8
+https://jmp2.uk/stvp-USBD3300004RH
 
 #EXTINF:0 tvg-logo="https://i.imgur.com/uIIUIuN.png" group-title="XITE", Rock x Metal
 https://d198ro05q94rc4.cloudfront.net/XITE_Rock_On.m3u8
 https://jmp2.uk/plu-623a1b5188ecdc0007c9ef5a.m3u8
+https://jmp2.uk/stvp-USBB2300004KV
+https://jmp2.uk/stvp-CABB26000054K
 
 #EXTINF:0 group-title="XITE", Gospel
 
 #EXTINF:0 tvg-logo="https://i.imgur.com/vwpOzuz.png" group-title="XITE", 90s Throwback
 https://d284aawtm5vi48.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-fjdfi2br1jtq7/XITE_90s_Throwback.m3u8
+https://jmp2.uk/stvp-CABB2600018T4
 
 #EXTINF:0 group-title="XITE",  80s Flashback
 https://jmp2.uk/sam-CABB2600017ZU.m3u8
 
 #EXTINF:0 group-title="XITE", Celebrates
 https://jmp2.uk/sam-CABD17000043J.m3u8
+https://jmp2.uk/stvp-CABD17000043J
 
 #EXTINF:0 group-title="XITE", Country Today
 https://jmp2.uk/sam-CABD120001993.m3u8
 
 #EXTINF:0 tvg-logo="https://i.imgur.com/XQrMCkT.png" group-title="XITE", Classic Country
 https://jmp2.uk/plu-623b92a2ccefed0007b1db48.m3u8
+https://jmp2.uk/stvp-CABD1200023UJ
 
 #EXTINF:0 group-title="XITE", Christian Hits
 
 #EXTINF:0 group-title="XITE", R&B Classic Jams
+https://jmp2.uk/stvp-CABD1200021MS
 
 #EXTINF:0 tvg-logo="https://provider-static.plex.tv/epg/cms/production/c7506335-967f-46a9-917a-2a35475cd96c/xitereggaevibes_logo_light_-_Arlette_FiranRDX.png" group-title="XITE", Reggae Vibes
 
 #EXTINF:0 tvg-logo="https://provider-static.plex.tv/epg/cms/production/927dd614-017d-49dd-9eb9-0ed79d09084e/xitejustchill_logo_light_-_Arlette_FiranRDX.png" group-title="XITE", Just Chill
 https://dvnftgdlbnemm.cloudfront.net/XITE_Just_Chill.m3u8
+https://jmp2.uk/stvp-CABB2600004RZ
 
 
 ################################### Stingray #############################################
@@ -157,12 +207,15 @@ https://lotus.stingray.com/manifest/ose-214ads-montreal/samsungtvplus/master.m3u
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/CfUIllx.jpeg" group-title="Stingray", Hit List
 https://lotus.stingray.com/manifest/ose-107ads-montreal/samsungtvplus/master.m3u8
+https://d39g1vxj2ef6in.cloudfront.net/v1/master/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod-rakuten-stitched/master.m3u8?ads.xumo_channelId=88883054
 https://dbrb49pjoymg4.cloudfront.net/v1/master/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod_default_xumo-ams-aws/master.m3u8?ads.xumo_channelId=99991117
 
 #EXTINF:-1 tvg-logo="" tvg-logo="https://i.imgur.com/Hz2d6og.png" group-title="Stingray", Greatest Hits
 https://d39g1vxj2ef6in.cloudfront.net/v1/manifest/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod-rakuten-stitched/54947915-6504-4548-aaef-eabd451f8607/1.m3u8
 https://lotus.stingray.com/manifest/ose-155ads-montreal/samsungtvplus/master.m3u8
 https://d2ijgfgrz03rvu.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-l5gypvhxzqytm/manifest/ose-155ads-montreal/samsungtvplus/master.m3u8
+https://jmp2.uk/stvp-CABD1200037BS
+https://jmp2.uk/stvp-USBD3500022DN
 
 #EXTINF:-1 tvg-logo="" group-title="Stingray", Soft Hits
 https://lotus.stingray.com/manifest/ose-237ads-montreal/samsungtvplus/master.m3u8
@@ -172,6 +225,7 @@ https://lotus.stingray.com/manifest/ose-104ads-montreal/samsungtvplus/master.m3u
 
 #EXTINF:-1 tvg-logo="" group-title="Stingray", Classica
 https://lotus.stingray.com/manifest/classica-cla008-montreal/samsungtvplus/master.m3u8
+https://jmp2.uk/stvp-CA400005W4
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/3RVQZ3l.jpeg" group-title="Stingray", CMusic
 http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/64240d00dbdaaa00085bc5e2/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=2c799158-35fc-11ef-a031-2b5d494037a2&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=591a5510-6f0c-4769-9f52-fb2ec0e8a3ea
@@ -181,23 +235,31 @@ https://lotus.stingray.com/manifest/cmusic-cme004-montreal/samsungtvplus/master.
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/JBD2UP9.jpeg" group-title="Stingray", Hip Hop
 https://lotus.stingray.com/manifest/ose-133ads-montreal/samsungtvplus/master.m3u8 
+https://jmp2.uk/stvp-CABD1200029U0
+https://jmp2.uk/stvp-USBD3500010MT
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/AnxGJcI.jpeg" group-title="Stingray", Nothin' But '90s
 https://lotus.stingray.com/manifest/ose-142ads-montreal/samsungtvplus/master.m3u8 
+https://jmp2.uk/stvp-USBD35000149S
+https://jmp2.uk/stvp-CABD1200033B1
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/G2l6rud.jpeg" group-title="Stingray", Remember The '80s
 https://lotus.stingray.com/manifest/ose-128ads-montreal/samsungtvplus/master.m3u8
 https://d1imh73yrie9zu.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-tqikpnjgwyvj8/manifest/ose-128ads-montreal/samsungtvplus/master.m3u8
+https://jmp2.uk/stvp-CABD1200026VA
+https://jmp2.uk/stvp-USBD3300022QK
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/xNIOvbA.jpeg" group-title="Stingray", Flashback '70s
 https://lotus.stingray.com/manifest/ose-115ads-montreal/samsungtvplus/master.m3u8
 https://d30hccj9v28bt6.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-jp7qdac3e1wzj/manifest/ose-115ads-montreal/samsungtvplus/master.m3u8
+https://jmp2.uk/stvp-USBD3500008IJ
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/kbaO0F3.jpeg" group-title="Stingray", Jukebox Oldies
 https://lotus.stingray.com/manifest/ose-021ads-montreal/samsungtvplus/master.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/vLkEBje.jpeg" group-title="Stingray", Easy Listening
 https://lotus.stingray.com/manifest/ose-137ads-montreal/samsungtvplus/master.m3u8
+https://jmp2.uk/stvp-USBD3500011J3
 
 #EXTINF:-1 tvg-id="StingrayKaraoke.ca@SD" tvg-logo="https://i.imgur.com/v2VMgSh.jpeg" group-title="Stingray",Karaoke
 https://lotus.stingray.com/manifest/karaoke-kar000-montreal/samsungtvplus/master.m3u8
@@ -209,26 +271,36 @@ https://plextv.ott-channels.stingray.com/holidayscapes/master.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Stingray", Naturescape
 https://jmp2.uk/plu-5812bd9f249444e05d09cc4e.m3u8
 https://lotus.stingray.com/manifest/naturescape-a003-montreal/samsungtvplus/master.m3u8
+https://jmp2.uk/stvp-CAAJ3400003T7
 
 #EXTINF:-1 tvg-logo="" group-title="Stingray", ZenLIFE
 https://jmp2.uk/plu-696998dfa2b623e8b20125a3.m3u8
 https://lotus.stingray.com/manifest/zenlife-zen001-montreal/samsungtvplus/master.m3u8
+https://jmp2.uk/stvp-CA600002VE
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/G45q0wl.jpeg" group-title="Stingray", The Spa
 https://lotus.stingray.com/manifest/ose-122ads-montreal/samsungtvplus/master.m3u8
+https://jmp2.uk/stvp-CABD1200032N6
+https://jmp2.uk/stvp-USBD3500013DG
 
 #EXTINF:-1 tvg-logo="" group-title="Stingray", Soul Storm
 https://lotus.stingray.com/manifest/ose-134ads-montreal/samsungtvplus/master.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/eazpM0m.jpeg" group-title="Stingray", Smooth Jazz
 https://lotus.stingray.com/manifest/ose-140ads-montreal/samsungtvplus/master.m3u8
+https://jmp2.uk/stvp-CABD1200031NL
+https://jmp2.uk/stvp-USBD35000128A
 
 #EXTINF:-1 tvg-logo="" group-title="Stingray", DJAZZ
 https://jmp2.uk/plu-696689d13b9ce349c9be3a18.m3u8
 https://lotus.stingray.com/manifest/djazz-djaads-montreal/samsungtvplus/master.m3u8
+https://jmp2.uk/stvp-USBD3500025GS
+https://jmp2.uk/stvp-CA400002ZK
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/0DOQ9Nw.jpeg" group-title="Stingray", Classic Rock
 https://lotus.stingray.com/manifest/ose-101ads-montreal/samsungtvplus/master.m3u8
+https://jmp2.uk/stvp-USBD35000180U
+https://jmp2.uk/stvp-CABD1200036YT
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/X1NDSsk.jpeg" group-title="Stingray", Rock Alternative
 https://lotus.stingray.com/manifest/ose-102ads-montreal/samsungtvplus/master.m3u8
@@ -237,18 +309,26 @@ https://lotus.stingray.com/manifest/ose-102ads-montreal/samsungtvplus/master.m3u
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/4x8LiSS.jpeg" group-title="Stingray", Hot Country
 https://lotus.stingray.com/manifest/ose-108ads-montreal/samsungtvplus/master.m3u8
+https://jmp2.uk/stvp-USBD3300021KV
 
 #EXTINF:-1 tvg-logo="" group-title="Stingray", Today's K-Pop
 https://lotus.stingray.com/manifest/ose-317ads-montreal/samsungtvplus/master.m3u8
+https://jmp2.uk/stvp-USBD3500016NH
+https://jmp2.uk/stvp-CABD1200034DU
 
 #EXTINF:-1 tvg-logo="" group-title="Stingray",Qello Concerts
 https://lotus.stingray.com/manifest/qello-qello001-montreal/samsungtvplus/master.m3u8
+https://jmp2.uk/stvp-CA400004SM
 
 #EXTINF:-1 tvg-logo="" group-title="Stingray", Romance Latino
 https://lotus.stingray.com/manifest/ose-202ads-montreal/samsungtvplus/master.m3u8
+https://jmp2.uk/stvp-CABD1200035WW
+https://jmp2.uk/stvp-USBD3500017CE
 
 #EXTINF:-1 tvg-logo="" group-title="Stingray", Exitos Del Momento
 https://lotus.stingray.com/manifest/ose-190ads-montreal/samsungtvplus/master.m3u8
+https://jmp2.uk/stvp-USBD3500009Y3
+https://jmp2.uk/stvp-CABD1200027JL
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/fl7BH9r.jpeg" group-title="Stingray", Today's Latin
 https://lotus.stingray.com/manifest/ose-190ads-montreal/samsungtvplus/master.m3u8
@@ -257,16 +337,22 @@ https://lotus.stingray.com/manifest/ose-190ads-montreal/samsungtvplus/master.m3u
 https://lotus.stingray.com/manifest/ose-133ads-montreal/samsungtvplus/master.m3u8
 
 #EXTINF:-1 tvg-logo="" group-title="Stingray", Souvenirs
+https://jmp2.uk/stvp-CA29000146S
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Q6exvth.jpeg" group-title="Stingray", le Palmares
+https://jmp2.uk/stvp-CA2900015NH
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/tSIGnbx.jpeg" group-title="Stingray", Nostalgie
+https://jmp2.uk/stvp-CA2900017MW
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/IDWMOVx.jpeg" group-title="Stingray", Franco Retro
+https://jmp2.uk/stvp-CA29000139Y
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/GltP7NC.jpeg" group-title="Stingray", Franco Pop
+https://jmp2.uk/stvp-CA290001647
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/IpzGCl0.jpeg" group-title="Stingray", Franco Country
+https://jmp2.uk/stvp-CA29000183M
 
 
 ################################### Nepali Radio #############################################

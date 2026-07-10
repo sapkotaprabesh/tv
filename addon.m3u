@@ -10,6 +10,9 @@ http://41.205.77.102/HBO/index.m3u8
 https://iptv.prax.to/HBO
 #EXTINF:-1 tvg-logo="https://cdn.tvpassport.com/image/station/240x135/bbcamerica.png" group-title="Movies",BBC America
 https://iptv.prax.to/BBC_AMERICA
+http://23.239.31.26:8989/bbcamerica/index.m3u8
+http://206.212.244.63/13/index.m3u8
+
 #EXTINF:-1 tvg-logo="https://logonoid.com/images/cinemax-logo.png" group-title="Movies",Cinemax
 https://iptv.prax.to/CINEMAX
 https://video1.getstreamhosting.com:1936/8432/8432/playlist.m3u8
@@ -46,6 +49,7 @@ https://epiconvh.akamaized.net/live/gubbare/master.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/7NeBmWX.jpg" group-title="Sports",Red Bull TV
 https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master.m3u8
 http://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_3360.m3u8
+https://jmp2.uk/stvp-GBBD2300003IK
 
 #EXTINF:-1 tvg-logo="https://d3k81ch9hvuctc.cloudfront.net/company/HvKcVr/images/82aae7fa-ddf6-4297-a5ed-1486c8a23b89.png" group-title="Entertainment",People are Awesome
 https://jukin-peopleareawesome-2-in.samsung.wurl.tv/playlist.m3u8
@@ -54,13 +58,13 @@ https://iptv.prax.to/FOOD_NETWORK
 https://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5fb5844bf5514d0007945bda/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=web&servertSideAds=false&&deviceMake=github.com/inspirationlinks&deviceDNT=1
 
 #EXTINF:-1 tvg-id="5e20b730f2f8d5003d739db7-62ab5aabbb869dd0df6a3487" tvg-logo="https://provider-static.plex.tv/epg/cms/production/5fd3720e-6bb2-44ae-9345-65999a1afbf8/-_B_Channel_logo_1500x1000_RED.png" group-title="Infotainment",TED
-https://i.mjh.nz/SamsungTVPlus/CABB2500020SS.m3u8
 #EXTINF:-1 tvg-id="NASATV.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b4/NASA_TV.svg/512px-NASA_TV.svg.png" group-title="Infotainment",NASA TV
-https://uplynkcontent.sinclairstoryline.com/channel/ddd76fdc1c0a456ba537e4f48e827d3e.m3u8
+https://service-stitcher.clusters.pluto.tv/v2/stitch/hls/channel/5b64a245a202b3337f09e51d/master.m3u8?deviceType=web&deviceMake=web&deviceModel=web&deviceVersion=1&appVersion=na&deviceLat=40&deviceLon=0&deviceDNT=0&deviceId=597555c0-2f1a-4740-aa37-ea93b74eee41&clientID=99da08d6-90b9-4fc3-849d-e121cf0ec696&clientModelNumber=na&serverSideAds=false&masterJWTPassthrough=1&jwt=eyJhbGciOiJIUzI1NiIsImtpZCI6ImVhMzliMTQyLTBmOTktNGUyNy04MmEzLTg1NDMzYzY1YjJhZiIsInR5cCI6IkpXVCJ9.eyJzZXNzaW9uSUQiOiI0NjNiZTZmMi03YjlhLTExZjEtYWI0My05YWQyYzQ5YmUxZDYiLCJjbGllbnRJUCI6IjJhMDI6YzIwNzoyMjk1OjY5MTk6OjEiLCJjaXR5IjoiTGF1dGVyYm91cmciLCJwb3N0YWxDb2RlIjoiNjc2MzAiLCJjb3VudHJ5IjoiRlIiLCJkbWEiOjI1MDA2NywiYWN0aXZlUmVnaW9uIjoiRlIiLCJkZXZpY2VMYXQiOjQ4Ljk1OTk5OTA4NDQ3MjY1NiwiZGV2aWNlTG9uIjo4LjExOTk5OTg4NTU1OTA4MiwicHJlZmVycmVkTGFuZ3VhZ2UiOiIqIiwiZGV2aWNlVHlwZSI6IndlYiIsImRldmljZVZlcnNpb24iOiJuYSIsImRldmljZU1ha2UiOiJDaHJvbWUiLCJkZXZpY2VNb2RlbCI6IndlYiIsImFwcE5hbWUiOiJ3ZWIiLCJhcHBWZXJzaW9uIjoibmEiLCJjbGllbnRJRCI6Ijk5ZGEwOGQ2LTkwYjktNGZjMy04NDlkLWUxMjFjZjBlYzY5NiIsImNtQXVkaWVuY2VJRCI6IiIsImlzQ2xpZW50RE5UIjpmYWxzZSwidXNlcklEIjoiIiwibG9nTGV2ZWwiOiJERUZBVUxUIiwidGltZVpvbmUiOiJFdXJvcGUvUGFyaXMiLCJzZXJ2ZXJTaWRlQWRzIjpmYWxzZSwiZTJlQmVhY29ucyI6ZmFsc2UsImZlYXR1cmVzIjp7Im11bHRpUG9kQWRzIjp7ImNvaG9ydCI6IiIsImVuYWJsZWQiOnRydWV9LCJzdGl0Y2hlckhsc05nIjp7ImRlbXV4ZWRBdWRpbyI6ImppdCJ9fSwiZm1zUGFyYW1zIjp7ImZ3VmNJRDIiOiI5OWRhMDhkNi05MGI5LTRmYzMtODQ5ZC1lMTIxY2YwZWM2OTYiLCJmd1ZjSUQyQ29wcGEiOiI5OWRhMDhkNi05MGI5LTRmYzMtODQ5ZC1lMTIxY2YwZWM2OTYiLCJjdXN0b21QYXJhbXMiOnsiZm1zX2xpdmVyYW1wX2lkbCI6IiIsImZtc19lbWFpbGhhc2giOiIiLCJmbXNfc3Vic2NyaWJlcmlkIjoiIiwiZm1zX2lmYSI6IiIsImZtc19pZGZ2IjoiIiwiZm1zX3VzZXJpZCI6Ijk5ZGEwOGQ2LTkwYjktNGZjMy04NDlkLWUxMjFjZjBlYzY5NiIsImZtc192Y2lkMnR5cGUiOiJ1c2VyaWQiLCJmbXNfcmFtcF9pZCI6IiIsImZtc19oaF9yYW1wX2lkIjoiIiwiZm1zX2JpZGlkdHlwZSI6IiIsIl9md18zUF9VSUQiOiIiLCJmbXNfcnVsZWlkIjoiMTAwMDksMTAwMTYsMTAwMTUsMTAwMjAsMTAwMjEsMTAwMTMsMTAwMTQsMTAwMjMsMTAwMDAifX0sInNlc3Npb25TdGFydFRpbWUiOjE3ODM2MDM3OTU4NzAsImlzcyI6ImJvb3QucGx1dG8udHYiLCJzdWIiOiJwcmk6djE6cGx1dG86ZGV2aWNlczpGUjpPVGxrWVRBNFpEWXRPVEJpT1MwMFptTXpMVGcwT1dRdFpURXlNV05tTUdWak5qazIiLCJhdWQiOiIqLnBsdXRvLnR2IiwiZXhwIjoxNzgzNjkwMTk2LCJpYXQiOjE3ODM2MDM3OTYsImp0aSI6Ijg4Yzc5M2YwLTlkZDktNGM1Yy04YzU0LTdiMjI0NWJiZGU1OSJ9._bb_EWZWTjfWrUdH9sgs7Y7GsMKOroEgHszeSPYyBl0
 
 #EXTINF:-1 tvg-id="sky.news" tvg-logo="https://static.wikia.nocookie.net/youtube/images/a/a6/Sky_News.jpg" group-title="News",Sky News
 https://ntv.onrender.com/yt/SkyNews
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3b/Bloomberg_Television_2016.png" group-title="News",Bloomberg TV Asia
 https://bloomberg.com/media-manifest/streams/asia.m3u8
 https://www.bloomberg.com/media-manifest/streams/us-event.m3u8
+https://bloomberg.com/media-manifest/streams/eu.m3u8
 https://iptv.prax.to/BLOOMBERG
