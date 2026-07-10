@@ -77,6 +77,7 @@ https://lightning-now70s-samsungnz.amagi.tv/playlist.m3u8
 #EXTINF:0 tvg-logo="" group-title="Music",80s
 https://lightning-now80s-samsungnz.amagi.tv/playlist720p.m3u8
 https://lightning-now80s-samsunguk.amagi.tv/playlist.m3u8
+https://lightning-now80s-rakuten.amagi.tv/playlist.m3u8
 
 #EXTINF:0 tvg-logo="" group-title="Music",90s & 00s
 
@@ -84,6 +85,7 @@ https://lightning-now80s-samsunguk.amagi.tv/playlist.m3u8
 #EXTINF:0 tvg-logo="" group-title="Music",Rock
 https://lightning-now90s-xiaomi.amagi.tv/playlist.m3u8
 https://lightning-now90s-samsungnz.amagi.tv/playlist.m3u8
+https://lightning-now90s-rakuten.amagi.tv/playlist.m3u8
 https://jmp2.uk/stvp-IN270000230
 
 ################################### NOW #############################################
@@ -141,6 +143,7 @@ https://jmp2.uk/plu-5da0d83f66c9700009b96d0e.m3u8
 
 #EXTINF:0 tvg-logo="" group-title="Music", Hip Hop & R&B
 https://d7i20u8nlyf1b.cloudfront.net/VevoHipHopRB_GB.m3u8
+https://amg00056-amg00056c26-rakuten-uk-3236.playouts.now.amagi.tv/playlist.m3u8
 
 #EXTINF:-1 tvg-id="f7920ec9-2799-4931-bf0b-9f9de15e4abb" tvg-logo="https://cdn.tvivu.com/logos/vevo-retro-es-160.webp" group-title="Music",Retro
 https://jmp2.uk/stvp-ESBD230000289
@@ -154,6 +157,7 @@ https://d2lyea6if8kkz9.cloudfront.net/playlist/amg00056-vevotv-vevoretrorockau-s
 #EXTINF:0 tvg-logo="https://i.imgur.com/dZHktKR.png" group-title="Music", Pop
 https://d128y56w6v2kax.cloudfront.net/playlist/amg00056-vevotv-vevopopau-samsungau/playlist.m3u8
 https://d2n3779oy6efpi.cloudfront.net/playlist.m3u8
+https://amg00056-amg00056c6-rakuten-uk-3235.playouts.now.amagi.tv/playlist.m3u8
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00056-vevotv-vevopopau-samsungau/playlist.m3u8
 https://jmp2.uk/plu-5d93b635b43dd1a399b39eee.m3u8
 https://jmp2.uk/stvp-ITBC2100001G9
@@ -220,6 +224,7 @@ https://dbrb49pjoymg4.cloudfront.net/v1/master/3fec3e5cac39a52b2132f9c66c83dae04
 https://d39g1vxj2ef6in.cloudfront.net/v1/manifest/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod-rakuten-stitched/54947915-6504-4548-aaef-eabd451f8607/1.m3u8
 https://lotus.stingray.com/manifest/ose-155ads-montreal/samsungtvplus/master.m3u8
 https://d2ijgfgrz03rvu.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-l5gypvhxzqytm/manifest/ose-155ads-montreal/samsungtvplus/master.m3u8
+https://d39g1vxj2ef6in.cloudfront.net/v1/master/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod-rakuten-stitched/master.m3u8?ads.xumo_channelId=88883053
 https://jmp2.uk/stvp-CABD1200037BS
 https://jmp2.uk/stvp-USBD3500022DN
 
@@ -252,6 +257,8 @@ https://jmp2.uk/stvp-CABD1200033B1
 #EXTINF:-1 tvg-logo="https://i.imgur.com/G2l6rud.jpeg" group-title="Music", Remember The '80s
 https://lotus.stingray.com/manifest/ose-128ads-montreal/samsungtvplus/master.m3u8
 https://d1imh73yrie9zu.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-tqikpnjgwyvj8/manifest/ose-128ads-montreal/samsungtvplus/master.m3u8
+https://d39g1vxj2ef6in.cloudfront.net/v1/manifest/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod-rakuten-stitched/68cc5f97-cf6c-4ff7-9125-f56f272dbcb6/1.m3u8
+https://d39g1vxj2ef6in.cloudfront.net/v1/master/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod-rakuten-stitched/master.m3u8?ads.xumo_channelId=88883071
 https://jmp2.uk/stvp-CABD1200026VA
 https://jmp2.uk/stvp-USBD3300022QK
 
@@ -277,6 +284,7 @@ https://plextv.ott-channels.stingray.com/holidayscapes/master.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Music", Naturescape
 https://jmp2.uk/plu-5812bd9f249444e05d09cc4e.m3u8
 https://lotus.stingray.com/manifest/naturescape-a003-montreal/samsungtvplus/master.m3u8
+https://d39g1vxj2ef6in.cloudfront.net/v1/master/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod-rakuten-stitched/master.m3u8?ads.xumo_channelId=88883056
 https://jmp2.uk/stvp-CAAJ3400003T7
 
 #EXTINF:-1 tvg-logo="" group-title="Music", ZenLIFE
